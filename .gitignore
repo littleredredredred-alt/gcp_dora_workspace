@@ -1,0 +1,16 @@
+# temp / logs
+*.log
+tmp/
+cache/
+
+# editor
+.vscode/
+.idea/
+.DS_Store
+
+# optional: exclude noisy generated content if needed
+# memory/*.tmp
+.clawhub/lock.json
+
+# projects (external references, not under version control)
+projects/
