@@ -13,14 +13,88 @@ Primary promise:
 - organize just enough for future retrieval
 - answer later questions from stored notes
 
-## Core workflow
+## Schema Definition（Phase 2 結構化記憶）
 
-1. Capture first.
-2. Do not reject input because it is messy.
-3. Preserve the original wording when it may matter later.
-4. Apply light structure.
-5. Store to the right file.
-6. When uncertain, store to inbox instead of blocking.
+### Memory Files
+
+| 檔案 | 用途 | 寫入時機 |
+|------|------|---------|
+| `memory/INBOX.md` | 模糊/片段/未分類的 capture | 快速 capture，不確定分類時 |
+| `memory/PEOPLE.md` | 人物相關筆記 | 提到人名、關係、互動時 |
+| `memory/PROJECTS.md` | 專案相關筆記 | 提到專案、任務、進度時 |
+| `memory/LINKS.md` | 連結收藏 | 收到值得保存的 URL 時 |
+
+### Entry Type System
+
+| type | 格式 | 使用時機 |
+|------|------|---------|
+| `idea` | 想法、點子、創意 | 任何非立即執行的念頭 |
+| `link` | 標題 + URL + why_it_matters | 收到 URL 或想收藏連結 |
+| `note` | 一般筆記、觀察、記錄 | 不符合其他類型時 |
+| `task` | 行動項目、相關的人 | 有明確後續要做的事 |
+| `question` | 想問的問題、以後要研究 | 想到但還沒找到答案 |
+
+### Entry Pattern（每筆記錄必備欄位）
+
+```markdown
+- YYYY-MM-DD HH:MM UTC | type: {type} | source: {telegram|discord|webchat}
+  summary: {一句話描述}
+  details: {詳細內容 or N/A}
+  related: {comma-separated tags}
+```
+
+### Linking Rules
+
+1. **同一專案/人物的多筆記錄**：透過 `related` 標籤關聯
+2. **跨檔案連結**：在 `related` 使用相同 tag
+3. **定期整理**：當 `related` 累積超過 3 個相同 tag 時，考慮濃縮
+
+```markdown
+# Example: LINKS.md 中的連結可以 cross-reference
+- 2026-04-07 16:00 UTC | type: link | source: telegram
+  title: 關於 RAG 的研究文章
+  url: https://example.com/rag-research
+  why_it_matters: 之後要做 Dora 的 semantic search
+  related: dora, rag, semantic-search
+```
+
+### Recall Rules（查回流程）
+
+1. **關鍵字搜尋**：直接 grep memory/ 檔案
+2. **多檔案搜尋**：INBOX → PEOPLE → PROJECTS → LINKS
+3. **交叉比對**：當多個檔案有相關內容時，顯示所有結果
+
+```markdown
+# 查回時的回答格式
+直接回答：
+{summarized answer}
+
+依據：
+- {file1}: {relevant excerpt}
+- {file2}: {relevant excerpt}
+
+無法確定時：
+「我找到一些相關記錄，但不確定是否完全符合：
+{list}
+建議再提供更多細節。」
+```
+
+### Query Pattern Recognition
+
+| 使用者問法 | 對應行動 |
+|-----------|---------|
+| `記一下...` / `save this` | capture → INBOX.md |
+| `我之前有没有提到...` | recall → 搜尋所有 memory |
+| `誰說過...` / `記得...說過` | recall → PEOPLE.md |
+| `那個專案...` / `project...` | recall → PROJECTS.md |
+| `整理 inbox` | cleanup → 濃縮/分類 INBOX.md |
+
+### Phase 2 Enhancements（已實作）
+
+- 所有 entry 統一 timestamp format（YYYY-MM-DD HH:MM UTC）
+- `related` 標籤系統用於 cross-file linking
+- source channel 記錄用於日後分析
+- 每個檔案有明確職責邊界
 
 ## Supported user intents
 
