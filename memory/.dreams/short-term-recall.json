@@ -1,0 +1,2768 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-10T17:01:20.831Z",
+  "entries": {
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: [cron:f9217fdb-5810-42cc-8506-989be46347a3 看履歷報告] 🔔 Eric，8點了！記得去看 reports/job-search-taipei-cv-ai-2026-04-08.md Current time: Thursday, April 9th, 2026 - 12:00 PM (UTC) / 2026-04-09 12:00 UTC Return your summary as plain text; it will be delivered automatically. If the tas",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "user",
+        "cron:f9217fdb",
+        "42cc",
+        "989be46347a3",
+        "履歷",
+        "報告",
+        "eric",
+        "點了"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "assistant",
+        "履歷",
+        "報告",
+        "檔案",
+        "不存在",
+        "路徑"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Thu 2026-04-09 08:49 UTC] 明天下午2點提醒我請假出國",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: 好，幫你設定明天下午2點（台灣時間）的提醒：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "設定",
+        "明天",
+        "下午",
+        "台灣",
+        "時間",
+        "提醒"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: ✅ 已設定，明天（4/10）下午2點會提醒你請假出國。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "4/10",
+        "assistant",
+        "設定",
+        "明天",
+        "下午",
+        "提醒",
+        "請假",
+        "出國"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Thu 2026-04-09 08:53 UTC] 你是怎麼記住我提供給妳的資訊的? 例如我跟你說記住某件事，幾個月後問你說我之前說過的XXX那個細節是什麼，你要怎麼樣準確無誤地給我答案?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: 這是好問題，直接說明我的運作方式： --- **我的「記憶」架構** 我沒有真正的長期記憶。每次對話結束後，這個 session 內的內容我會忘記。 但我的設計是**外部檔案系統作為記憶體**： | 層次 | 內容 | 持久性 | |------|------|--------| | **記憶檔案** | `memory/INBOX.md`、`memory/PROJECTS.md`、`memory/PEOPLE.md` 等 | 永遠存在磁碟 | | **工作區** | `/home/node/.openclaw/dora-agent",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "memory/inbox.md",
+        "memory/projects.md",
+        "memory/people.md",
+        "home/node",
+        "openclaw/dora-agent",
+        "assistant",
+        "這是",
+        "問題"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Thu 2026-04-09 09:01 UTC] 沒關係我就了解一下而已。 那我叫你提醒我明天XXX的時候，你是用cron設定提醒嗎?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "Assistant: 對，剛才幫你設提醒就是用 `cron` tool。 但 cron 不只是提醒功能，它是一個**通用排程系統**： - **一次性**（如明天2點提醒）→ `kind: \"at\"` - **循環**（每天早上8點、每週一）→ `kind: \"cron\"` - **間隔**（每30分鐘檢查一次）→ `kind: \"every\"` 我用它驅動「提醒」只是常見用法之一，核心能力是定時觸發任何任務或事件。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "剛才",
+        "提醒",
+        "就是",
+        "cron",
+        "tool",
+        "不只是",
+        "功能"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Thu 2026-04-09 09:23 UTC] 提醒我晚上8點看reports/job-search-taipei-cv-ai-2026-04-08.md",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "Assistant: 算錯時差了，幫你修成晚上8點（台灣時間）：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "算錯",
+        "時差",
+        "修成",
+        "晚上",
+        "台灣",
+        "時間"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: ✅ 已設定，今晚 8 點（台灣時間）提醒你看 `reports/job-search-taipei-cv-ai-2026-04-08.md`。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "設定",
+        "今晚",
+        "台灣",
+        "時間",
+        "提醒",
+        "reports",
+        "job"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"15\", \"sender_id\": \"8590675031\", \"sender\": \"Eric\", \"timestamp\": \"Thu 2026-04-09 12:38 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Eric (8590675031)\", \"id\": \"8590675031\", \"name\": \"Eric\" } ``` 星期六",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: ✅ 設定好了： - 週六（4/11）晚上 8 點提醒 - 週日（4/12）晚上 8 點提醒 兩個都是一次性提醒，觸發後自動刪除。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "4/11",
+        "4/12",
+        "assistant",
+        "設定",
+        "好了",
+        "週六",
+        "晚上",
+        "提醒"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Thu 2026-04-09 06:30 UTC] 星期六下午6點提醒我繳牌照稅",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-09.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-09.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-04-09.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "Assistant: ✅ 已設定囉！2026 年 4 月 11 日（星期六）下午 6 點會提醒你繳牌照稅。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "6a468cf44707"
+      ],
+      "recallDays": [
+        "2026-04-09",
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "assistant",
+        "設定",
+        "星期六",
+        "下午",
+        "提醒",
+        "牌照稅"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T03:00:02.984Z",
+      "lastRecalledAt": "2026-04-10T03:00:02.984Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/2026-04-10.md:118:121": {
+      "key": "memory:memory/2026-04-10.md:118:121",
+      "path": "memory/2026-04-10.md",
+      "startLine": 118,
+      "endLine": 121,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 18 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:4-4, memory/.dreams/session-corpus/2026-04-08.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T04:00:02.614Z",
+      "lastRecalledAt": "2026-04-10T04:00:02.614Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "1.00",
+        "2-2",
+        "4-4",
+        "6-6",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:122:125": {
+      "key": "memory:memory/2026-04-10.md:122:125",
+      "path": "memory/2026-04-10.md",
+      "startLine": 122,
+      "endLine": 125,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 18 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T04:00:02.614Z",
+      "lastRecalledAt": "2026-04-10T04:00:02.614Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "1.00",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "heartbeat"
+      ]
+    },
+    "memory:memory/2026-04-10.md:126:129": {
+      "key": "memory:memory/2026-04-10.md:126:129",
+      "path": "memory/2026-04-10.md",
+      "startLine": 126,
+      "endLine": 129,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 16 memories.; confidence: 0.94; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:3-3, memory/.dreams/session-corpus/2026-04-08.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T04:00:02.614Z",
+      "lastRecalledAt": "2026-04-10T04:00:02.614Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.94",
+        "1-1",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:132:132": {
+      "key": "memory:memory/2026-04-10.md:132:132",
+      "path": "memory/2026-04-10.md",
+      "startLine": 132,
+      "endLine": 132,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T04:00:02.614Z",
+      "lastRecalledAt": "2026-04-10T04:00:02.614Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: A scheduled reminder has been triggered. The reminder content is: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T04:00:02.614Z",
+      "lastRecalledAt": "2026-04-10T04:00:02.614Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "user",
+        "scheduled",
+        "reminder",
+        "has",
+        "been",
+        "triggered"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T04:00:02.614Z",
+      "lastRecalledAt": "2026-04-10T04:00:02.614Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/2026-04-10.md:143:146": {
+      "key": "memory:memory/2026-04-10.md:143:146",
+      "path": "memory/2026-04-10.md",
+      "startLine": 143,
+      "endLine": 146,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 21 memories.; confidence: 0.95; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:4-4, memory/.dreams/session-corpus/2026-04-08.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T04:00:02.614Z",
+      "lastRecalledAt": "2026-04-10T05:00:02.700Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.95",
+        "2-2",
+        "4-4",
+        "6-6",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:147:150": {
+      "key": "memory:memory/2026-04-10.md:147:150",
+      "path": "memory/2026-04-10.md",
+      "startLine": 147,
+      "endLine": 150,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 21 memories.; confidence: 0.95; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T04:00:02.614Z",
+      "lastRecalledAt": "2026-04-10T05:00:02.700Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "0.95",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "heartbeat"
+      ]
+    },
+    "memory:memory/2026-04-10.md:151:154": {
+      "key": "memory:memory/2026-04-10.md:151:154",
+      "path": "memory/2026-04-10.md",
+      "startLine": 151,
+      "endLine": 154,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 19 memories.; confidence: 0.86; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:3-3, memory/.dreams/session-corpus/2026-04-08.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T04:00:02.614Z",
+      "lastRecalledAt": "2026-04-10T05:00:02.700Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.86",
+        "1-1",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:157:157": {
+      "key": "memory:memory/2026-04-10.md:157:157",
+      "path": "memory/2026-04-10.md",
+      "startLine": 157,
+      "endLine": 157,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T04:00:02.614Z",
+      "lastRecalledAt": "2026-04-10T05:00:02.700Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-10.md:158:161": {
+      "key": "memory:memory/2026-04-10.md:158:161",
+      "path": "memory/2026-04-10.md",
+      "startLine": 158,
+      "endLine": 161,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 22 memories.; confidence: 0.92; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:4-4, memory/.dreams/session-corpus/2026-04-08.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T05:00:02.700Z",
+      "lastRecalledAt": "2026-04-10T06:00:07.909Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.92",
+        "2-2",
+        "4-4",
+        "6-6",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:162:165": {
+      "key": "memory:memory/2026-04-10.md:162:165",
+      "path": "memory/2026-04-10.md",
+      "startLine": 162,
+      "endLine": 165,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 22 memories.; confidence: 0.92; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T05:00:02.700Z",
+      "lastRecalledAt": "2026-04-10T06:00:07.909Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "0.92",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "heartbeat"
+      ]
+    },
+    "memory:memory/2026-04-10.md:166:169": {
+      "key": "memory:memory/2026-04-10.md:166:169",
+      "path": "memory/2026-04-10.md",
+      "startLine": 166,
+      "endLine": 169,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 20 memories.; confidence: 0.83; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:3-3, memory/.dreams/session-corpus/2026-04-08.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T05:00:02.700Z",
+      "lastRecalledAt": "2026-04-10T06:00:07.909Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.83",
+        "1-1",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:172:172": {
+      "key": "memory:memory/2026-04-10.md:172:172",
+      "path": "memory/2026-04-10.md",
+      "startLine": 172,
+      "endLine": 172,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T05:00:02.700Z",
+      "lastRecalledAt": "2026-04-10T06:00:07.909Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T06:00:07.909Z",
+      "lastRecalledAt": "2026-04-10T06:00:07.909Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T06:00:07.909Z",
+      "lastRecalledAt": "2026-04-10T06:00:07.909Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/2026-04-10.md:173:176": {
+      "key": "memory:memory/2026-04-10.md:173:176",
+      "path": "memory/2026-04-10.md",
+      "startLine": 173,
+      "endLine": 176,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 25 memories.; confidence: 0.93; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T06:00:07.909Z",
+      "lastRecalledAt": "2026-04-10T07:01:18.205Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "0.93",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "heartbeat"
+      ]
+    },
+    "memory:memory/2026-04-10.md:177:180": {
+      "key": "memory:memory/2026-04-10.md:177:180",
+      "path": "memory/2026-04-10.md",
+      "startLine": 177,
+      "endLine": 180,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 24 memories.; confidence: 0.89; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:4-4, memory/.dreams/session-corpus/2026-04-08.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T06:00:07.909Z",
+      "lastRecalledAt": "2026-04-10T07:01:18.205Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.89",
+        "2-2",
+        "4-4",
+        "6-6",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:181:184": {
+      "key": "memory:memory/2026-04-10.md:181:184",
+      "path": "memory/2026-04-10.md",
+      "startLine": 181,
+      "endLine": 184,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 22 memories.; confidence: 0.81; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:3-3, memory/.dreams/session-corpus/2026-04-08.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T06:00:07.909Z",
+      "lastRecalledAt": "2026-04-10T07:01:18.205Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.81",
+        "1-1",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:187:187": {
+      "key": "memory:memory/2026-04-10.md:187:187",
+      "path": "memory/2026-04-10.md",
+      "startLine": 187,
+      "endLine": 187,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T06:00:07.909Z",
+      "lastRecalledAt": "2026-04-10T07:01:18.205Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T07:01:18.205Z",
+      "lastRecalledAt": "2026-04-10T07:01:18.205Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T07:01:18.205Z",
+      "lastRecalledAt": "2026-04-10T07:01:18.205Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: [cron:f9cd02c6-b473-488d-ac94-bd4436d3a438 請假出國提醒] 🔔 提醒：Eric，明天下午2點記得請假出國！ Current time: Friday, April 10th, 2026 - 6:01 AM (UTC) / 2026-04-10 06:01 UTC Return your summary as plain text; it will be delivered automatically. If the task explicitly calls for messaging a spec",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T07:01:18.205Z",
+      "lastRecalledAt": "2026-04-10T07:01:18.205Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "user",
+        "cron:f9cd02c6",
+        "b473",
+        "488d",
+        "ac94",
+        "bd4436d3a438",
+        "請假",
+        "出國"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: 提醒已收到。✅ 📅 **明天（4/11）下午 2 點請假出國** — 已記錄。 需要我幫忙處理什麼行前準備嗎？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T07:01:18.205Z",
+      "lastRecalledAt": "2026-04-10T07:01:18.205Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "4/11",
+        "assistant",
+        "提醒",
+        "收到",
+        "明天",
+        "下午",
+        "請假",
+        "出國"
+      ]
+    },
+    "memory:memory/2026-04-10.md:198:201": {
+      "key": "memory:memory/2026-04-10.md:198:201",
+      "path": "memory/2026-04-10.md",
+      "startLine": 198,
+      "endLine": 201,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 28 memories.; confidence: 0.90; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T07:01:18.205Z",
+      "lastRecalledAt": "2026-04-10T08:01:18.106Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "0.90",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "heartbeat"
+      ]
+    },
+    "memory:memory/2026-04-10.md:202:205": {
+      "key": "memory:memory/2026-04-10.md:202:205",
+      "path": "memory/2026-04-10.md",
+      "startLine": 202,
+      "endLine": 205,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 27 memories.; confidence: 0.87; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:4-4, memory/.dreams/session-corpus/2026-04-08.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T07:01:18.205Z",
+      "lastRecalledAt": "2026-04-10T08:01:18.106Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.87",
+        "2-2",
+        "4-4",
+        "6-6",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:206:209": {
+      "key": "memory:memory/2026-04-10.md:206:209",
+      "path": "memory/2026-04-10.md",
+      "startLine": 206,
+      "endLine": 209,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 25 memories.; confidence: 0.81; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:3-3, memory/.dreams/session-corpus/2026-04-08.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T07:01:18.205Z",
+      "lastRecalledAt": "2026-04-10T08:01:18.106Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.81",
+        "1-1",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:212:212": {
+      "key": "memory:memory/2026-04-10.md:212:212",
+      "path": "memory/2026-04-10.md",
+      "startLine": 212,
+      "endLine": 212,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T07:01:18.205Z",
+      "lastRecalledAt": "2026-04-10T08:01:18.106Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-10.md:208:211": {
+      "key": "memory:memory/2026-04-10.md:208:211",
+      "path": "memory/2026-04-10.md",
+      "startLine": 208,
+      "endLine": 211,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 29 memories.; confidence: 0.88; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:01:18.106Z",
+      "lastRecalledAt": "2026-04-10T09:01:20.853Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "0.88",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "heartbeat"
+      ]
+    },
+    "memory:memory/2026-04-10.md:212:215": {
+      "key": "memory:memory/2026-04-10.md:212:215",
+      "path": "memory/2026-04-10.md",
+      "startLine": 212,
+      "endLine": 215,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 28 memories.; confidence: 0.85; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:4-4, memory/.dreams/session-corpus/2026-04-08.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:01:18.106Z",
+      "lastRecalledAt": "2026-04-10T09:01:20.853Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.85",
+        "2-2",
+        "4-4",
+        "6-6",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:216:219": {
+      "key": "memory:memory/2026-04-10.md:216:219",
+      "path": "memory/2026-04-10.md",
+      "startLine": 216,
+      "endLine": 219,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 26 memories.; confidence: 0.79; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:3-3, memory/.dreams/session-corpus/2026-04-08.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:01:18.106Z",
+      "lastRecalledAt": "2026-04-10T09:01:20.853Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.79",
+        "1-1",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:222:222": {
+      "key": "memory:memory/2026-04-10.md:222:222",
+      "path": "memory/2026-04-10.md",
+      "startLine": 222,
+      "endLine": 222,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T08:01:18.106Z",
+      "lastRecalledAt": "2026-04-10T09:01:20.853Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T09:01:20.853Z",
+      "lastRecalledAt": "2026-04-10T09:01:20.853Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T09:01:20.853Z",
+      "lastRecalledAt": "2026-04-10T09:01:20.853Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/2026-04-10.md:223:226": {
+      "key": "memory:memory/2026-04-10.md:223:226",
+      "path": "memory/2026-04-10.md",
+      "startLine": 223,
+      "endLine": 226,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 32 memories.; confidence: 0.89; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T09:01:20.853Z",
+      "lastRecalledAt": "2026-04-10T10:01:20.919Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "0.89",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "heartbeat"
+      ]
+    },
+    "memory:memory/2026-04-10.md:227:230": {
+      "key": "memory:memory/2026-04-10.md:227:230",
+      "path": "memory/2026-04-10.md",
+      "startLine": 227,
+      "endLine": 230,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 30 memories.; confidence: 0.83; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:4-4, memory/.dreams/session-corpus/2026-04-08.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T09:01:20.853Z",
+      "lastRecalledAt": "2026-04-10T10:01:20.919Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.83",
+        "2-2",
+        "4-4",
+        "6-6",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:231:234": {
+      "key": "memory:memory/2026-04-10.md:231:234",
+      "path": "memory/2026-04-10.md",
+      "startLine": 231,
+      "endLine": 234,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 28 memories.; confidence: 0.78; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:3-3, memory/.dreams/session-corpus/2026-04-08.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T09:01:20.853Z",
+      "lastRecalledAt": "2026-04-10T10:01:20.919Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.78",
+        "1-1",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:237:237": {
+      "key": "memory:memory/2026-04-10.md:237:237",
+      "path": "memory/2026-04-10.md",
+      "startLine": 237,
+      "endLine": 237,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T09:01:20.853Z",
+      "lastRecalledAt": "2026-04-10T10:01:20.919Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-10.md:238:241": {
+      "key": "memory:memory/2026-04-10.md:238:241",
+      "path": "memory/2026-04-10.md",
+      "startLine": 238,
+      "endLine": 241,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 33 memories.; confidence: 0.87; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T10:01:20.919Z",
+      "lastRecalledAt": "2026-04-10T11:01:21.526Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "0.87",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "heartbeat"
+      ]
+    },
+    "memory:memory/2026-04-10.md:242:245": {
+      "key": "memory:memory/2026-04-10.md:242:245",
+      "path": "memory/2026-04-10.md",
+      "startLine": 242,
+      "endLine": 245,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 31 memories.; confidence: 0.82; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:4-4, memory/.dreams/session-corpus/2026-04-08.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T10:01:20.919Z",
+      "lastRecalledAt": "2026-04-10T11:01:21.526Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.82",
+        "2-2",
+        "4-4",
+        "6-6",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:246:249": {
+      "key": "memory:memory/2026-04-10.md:246:249",
+      "path": "memory/2026-04-10.md",
+      "startLine": 246,
+      "endLine": 249,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 29 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:3-3, memory/.dreams/session-corpus/2026-04-08.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T10:01:20.919Z",
+      "lastRecalledAt": "2026-04-10T11:01:21.526Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.76",
+        "1-1",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:252:252": {
+      "key": "memory:memory/2026-04-10.md:252:252",
+      "path": "memory/2026-04-10.md",
+      "startLine": 252,
+      "endLine": 252,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T10:01:20.919Z",
+      "lastRecalledAt": "2026-04-10T11:01:21.526Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T11:01:21.526Z",
+      "lastRecalledAt": "2026-04-10T11:01:21.526Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T11:01:21.526Z",
+      "lastRecalledAt": "2026-04-10T11:01:21.526Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/2026-04-10.md:253:256": {
+      "key": "memory:memory/2026-04-10.md:253:256",
+      "path": "memory/2026-04-10.md",
+      "startLine": 253,
+      "endLine": 256,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 36 memories.; confidence: 0.88; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T11:01:21.526Z",
+      "lastRecalledAt": "2026-04-10T12:01:21.039Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "0.88",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "heartbeat"
+      ]
+    },
+    "memory:memory/2026-04-10.md:257:260": {
+      "key": "memory:memory/2026-04-10.md:257:260",
+      "path": "memory/2026-04-10.md",
+      "startLine": 257,
+      "endLine": 260,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 33 memories.; confidence: 0.80; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:4-4, memory/.dreams/session-corpus/2026-04-08.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T11:01:21.526Z",
+      "lastRecalledAt": "2026-04-10T12:01:21.039Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.80",
+        "2-2",
+        "4-4",
+        "6-6",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:261:264": {
+      "key": "memory:memory/2026-04-10.md:261:264",
+      "path": "memory/2026-04-10.md",
+      "startLine": 261,
+      "endLine": 264,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 31 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:3-3, memory/.dreams/session-corpus/2026-04-08.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T11:01:21.526Z",
+      "lastRecalledAt": "2026-04-10T12:01:21.039Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.76",
+        "1-1",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:267:267": {
+      "key": "memory:memory/2026-04-10.md:267:267",
+      "path": "memory/2026-04-10.md",
+      "startLine": 267,
+      "endLine": 267,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T11:01:21.526Z",
+      "lastRecalledAt": "2026-04-10T12:01:21.039Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-10.md:258:261": {
+      "key": "memory:memory/2026-04-10.md:258:261",
+      "path": "memory/2026-04-10.md",
+      "startLine": 258,
+      "endLine": 261,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 37 memories.; confidence: 0.86; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T12:01:21.039Z",
+      "lastRecalledAt": "2026-04-10T13:01:22.890Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "0.86",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "heartbeat"
+      ]
+    },
+    "memory:memory/2026-04-10.md:262:265": {
+      "key": "memory:memory/2026-04-10.md:262:265",
+      "path": "memory/2026-04-10.md",
+      "startLine": 262,
+      "endLine": 265,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 34 memories.; confidence: 0.79; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:4-4, memory/.dreams/session-corpus/2026-04-08.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T12:01:21.039Z",
+      "lastRecalledAt": "2026-04-10T13:01:22.890Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.79",
+        "2-2",
+        "4-4",
+        "6-6",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:266:269": {
+      "key": "memory:memory/2026-04-10.md:266:269",
+      "path": "memory/2026-04-10.md",
+      "startLine": 266,
+      "endLine": 269,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 31 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:3-3, memory/.dreams/session-corpus/2026-04-08.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T12:01:21.039Z",
+      "lastRecalledAt": "2026-04-10T12:01:21.039Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.76",
+        "1-1",
+        "3-3",
+        "5-5",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:272:272": {
+      "key": "memory:memory/2026-04-10.md:272:272",
+      "path": "memory/2026-04-10.md",
+      "startLine": 272,
+      "endLine": 272,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T12:01:21.039Z",
+      "lastRecalledAt": "2026-04-10T12:01:21.039Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-10.md:268:268": {
+      "key": "memory:memory/2026-04-10.md:268:268",
+      "path": "memory/2026-04-10.md",
+      "startLine": 268,
+      "endLine": 268,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T13:01:22.890Z",
+      "lastRecalledAt": "2026-04-10T13:01:22.890Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T13:01:22.890Z",
+      "lastRecalledAt": "2026-04-10T13:01:22.890Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-10.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-04-10.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-10T13:01:22.890Z",
+      "lastRecalledAt": "2026-04-10T13:01:22.890Z",
+      "queryHashes": [
+        "eaf6343b64a6"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/2026-04-10.md:268:271": {
+      "key": "memory:memory/2026-04-10.md:268:271",
+      "path": "memory/2026-04-10.md",
+      "startLine": 268,
+      "endLine": 271,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 40 memories.; confidence: 0.87; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T13:01:22.890Z",
+      "lastRecalledAt": "2026-04-10T14:01:20.932Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "0.87",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "heartbeat"
+      ]
+    },
+    "memory:memory/2026-04-10.md:272:275": {
+      "key": "memory:memory/2026-04-10.md:272:275",
+      "path": "memory/2026-04-10.md",
+      "startLine": 272,
+      "endLine": 275,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 36 memories.; confidence: 0.78; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:4-4, memory/.dreams/session-corpus/2026-04-08.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T13:01:22.890Z",
+      "lastRecalledAt": "2026-04-10T14:01:20.932Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.78",
+        "2-2",
+        "4-4",
+        "6-6",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:278:278": {
+      "key": "memory:memory/2026-04-10.md:278:278",
+      "path": "memory/2026-04-10.md",
+      "startLine": 278,
+      "endLine": 278,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T13:01:22.890Z",
+      "lastRecalledAt": "2026-04-10T14:01:20.932Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    },
+    "memory:memory/2026-04-10.md:273:276": {
+      "key": "memory:memory/2026-04-10.md:273:276",
+      "path": "memory/2026-04-10.md",
+      "startLine": 273,
+      "endLine": 276,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 41 memories.; confidence: 0.86; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T14:01:20.932Z",
+      "lastRecalledAt": "2026-04-10T17:01:20.831Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "0.86",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "heartbeat"
+      ]
+    },
+    "memory:memory/2026-04-10.md:277:280": {
+      "key": "memory:memory/2026-04-10.md:277:280",
+      "path": "memory/2026-04-10.md",
+      "startLine": 277,
+      "endLine": 280,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 37 memories.; confidence: 0.78; evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:4-4, memory/.dreams/session-corpus/2026-04-08.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T14:01:20.932Z",
+      "lastRecalledAt": "2026-04-10T17:01:20.831Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.78",
+        "2-2",
+        "4-4",
+        "6-6",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:283:283": {
+      "key": "memory:memory/2026-04-10.md:283:283",
+      "path": "memory/2026-04-10.md",
+      "startLine": 283,
+      "endLine": 283,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-10T14:01:20.932Z",
+      "lastRecalledAt": "2026-04-10T17:01:20.831Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "possible",
+        "lasting",
+        "truths",
+        "strong",
+        "candidate",
+        "surfaced"
+      ]
+    }
+  }
+}
