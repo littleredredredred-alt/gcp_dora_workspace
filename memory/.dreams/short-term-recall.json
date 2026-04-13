@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-12T17:00:40.901Z",
+  "updatedAt": "2026-04-13T07:00:16.702Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
@@ -2688,13 +2688,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T14:01:20.932Z",
-      "lastRecalledAt": "2026-04-11T00:01:21.013Z",
+      "lastRecalledAt": "2026-04-13T07:00:16.702Z",
       "queryHashes": [
         "ed3026e16517"
       ],
       "recallDays": [
         "2026-04-10",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-13"
       ],
       "conceptTags": [
         "heartbeat-ok",
@@ -2719,13 +2720,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T14:01:20.932Z",
-      "lastRecalledAt": "2026-04-11T00:01:21.013Z",
+      "lastRecalledAt": "2026-04-13T07:00:16.702Z",
       "queryHashes": [
         "ed3026e16517"
       ],
       "recallDays": [
         "2026-04-10",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-13"
       ],
       "conceptTags": [
         "0.78",
@@ -2750,13 +2752,14 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-10T14:01:20.932Z",
-      "lastRecalledAt": "2026-04-11T00:01:21.013Z",
+      "lastRecalledAt": "2026-04-13T07:00:16.702Z",
       "queryHashes": [
         "ed3026e16517"
       ],
       "recallDays": [
         "2026-04-10",
-        "2026-04-11"
+        "2026-04-11",
+        "2026-04-13"
       ],
       "conceptTags": [
         "possible",
@@ -8054,13 +8057,13 @@
       "startLine": 1088,
       "endLine": 1091,
       "source": "memory",
-      "snippet": "Reflections: Theme: `reflections` kept surfacing across 135 memories.; confidence: 0.99; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "snippet": "Reflections: Theme: `reflections` kept surfacing across 138 memories.; confidence: 0.99; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T17:00:40.901Z",
-      "lastRecalledAt": "2026-04-12T17:00:40.901Z",
+      "lastRecalledAt": "2026-04-12T18:00:40.890Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -8084,13 +8087,13 @@
       "startLine": 1092,
       "endLine": 1095,
       "source": "memory",
-      "snippet": "Reflections: Theme: `theme` kept surfacing across 135 memories.; confidence: 0.99; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "snippet": "Reflections: Theme: `theme` kept surfacing across 138 memories.; confidence: 0.99; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T17:00:40.901Z",
-      "lastRecalledAt": "2026-04-12T17:00:40.901Z",
+      "lastRecalledAt": "2026-04-12T18:00:40.890Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -8114,13 +8117,13 @@
       "startLine": 1096,
       "endLine": 1099,
       "source": "memory",
-      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 105 memories.; confidence: 0.77; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 106 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T17:00:40.901Z",
-      "lastRecalledAt": "2026-04-12T17:00:40.901Z",
+      "lastRecalledAt": "2026-04-12T18:00:40.890Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -8129,7 +8132,7 @@
       ],
       "conceptTags": [
         "heartbeat-ok",
-        "0.77",
+        "0.76",
         "1-1",
         "2-2",
         "3-3",
@@ -8150,12 +8153,1587 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T17:00:40.901Z",
-      "lastRecalledAt": "2026-04-12T17:00:40.901Z",
+      "lastRecalledAt": "2026-04-12T18:00:40.890Z",
       "queryHashes": [
         "01679c334ef2"
       ],
       "recallDays": [
         "2026-04-12"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "possible",
+        "lasting",
+        "truths",
+        "candidate",
+        "assistant",
+        "履歷"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1163:1166": {
+      "key": "memory:memory/2026-04-12.md:1163:1166",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1163,
+      "endLine": 1166,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `reflections` kept surfacing across 141 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T18:00:40.890Z",
+      "lastRecalledAt": "2026-04-12T19:00:40.235Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1167:1170": {
+      "key": "memory:memory/2026-04-12.md:1167:1170",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1167,
+      "endLine": 1170,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `theme` kept surfacing across 141 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T18:00:40.890Z",
+      "lastRecalledAt": "2026-04-12T19:00:40.235Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1171:1174": {
+      "key": "memory:memory/2026-04-12.md:1171:1174",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1171,
+      "endLine": 1174,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 107 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T18:00:40.890Z",
+      "lastRecalledAt": "2026-04-12T19:00:40.235Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "0.76",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "heartbeat"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1177:1179": {
+      "key": "memory:memory/2026-04-12.md:1177:1179",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1177,
+      "endLine": 1179,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T18:00:40.890Z",
+      "lastRecalledAt": "2026-04-12T19:00:40.235Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "possible",
+        "lasting",
+        "truths",
+        "candidate",
+        "assistant",
+        "履歷"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1228:1231": {
+      "key": "memory:memory/2026-04-12.md:1228:1231",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1228,
+      "endLine": 1231,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `reflections` kept surfacing across 144 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T19:00:40.235Z",
+      "lastRecalledAt": "2026-04-12T20:00:40.876Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1232:1235": {
+      "key": "memory:memory/2026-04-12.md:1232:1235",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1232,
+      "endLine": 1235,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `theme` kept surfacing across 144 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T19:00:40.235Z",
+      "lastRecalledAt": "2026-04-12T20:00:40.876Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1236:1239": {
+      "key": "memory:memory/2026-04-12.md:1236:1239",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1236,
+      "endLine": 1239,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 108 memories.; confidence: 0.76; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T19:00:40.235Z",
+      "lastRecalledAt": "2026-04-12T20:00:40.876Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "0.76",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "heartbeat"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1242:1244": {
+      "key": "memory:memory/2026-04-12.md:1242:1244",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1242,
+      "endLine": 1244,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T19:00:40.235Z",
+      "lastRecalledAt": "2026-04-12T20:00:40.876Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "possible",
+        "lasting",
+        "truths",
+        "candidate",
+        "assistant",
+        "履歷"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1278:1281": {
+      "key": "memory:memory/2026-04-12.md:1278:1281",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1278,
+      "endLine": 1281,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `reflections` kept surfacing across 147 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T20:00:40.876Z",
+      "lastRecalledAt": "2026-04-12T21:00:40.919Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1282:1285": {
+      "key": "memory:memory/2026-04-12.md:1282:1285",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1282,
+      "endLine": 1285,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `theme` kept surfacing across 147 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T20:00:40.876Z",
+      "lastRecalledAt": "2026-04-12T21:00:40.919Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1286:1289": {
+      "key": "memory:memory/2026-04-12.md:1286:1289",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1286,
+      "endLine": 1289,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 109 memories.; confidence: 0.75; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T20:00:40.876Z",
+      "lastRecalledAt": "2026-04-12T21:00:40.919Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "0.75",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "heartbeat"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1292:1294": {
+      "key": "memory:memory/2026-04-12.md:1292:1294",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1292,
+      "endLine": 1294,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T20:00:40.876Z",
+      "lastRecalledAt": "2026-04-12T21:00:40.919Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "possible",
+        "lasting",
+        "truths",
+        "candidate",
+        "assistant",
+        "履歷"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1328:1331": {
+      "key": "memory:memory/2026-04-12.md:1328:1331",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1328,
+      "endLine": 1331,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `reflections` kept surfacing across 150 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T21:00:40.919Z",
+      "lastRecalledAt": "2026-04-12T22:00:40.858Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1332:1335": {
+      "key": "memory:memory/2026-04-12.md:1332:1335",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1332,
+      "endLine": 1335,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `theme` kept surfacing across 150 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T21:00:40.919Z",
+      "lastRecalledAt": "2026-04-12T22:00:40.858Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1336:1339": {
+      "key": "memory:memory/2026-04-12.md:1336:1339",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1336,
+      "endLine": 1339,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 109 memories.; confidence: 0.75; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T21:00:40.919Z",
+      "lastRecalledAt": "2026-04-12T21:00:40.919Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "0.75",
+        "1-1",
+        "2-2",
+        "3-3",
+        "reflections",
+        "theme",
+        "heartbeat"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1342:1344": {
+      "key": "memory:memory/2026-04-12.md:1342:1344",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1342,
+      "endLine": 1344,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T21:00:40.919Z",
+      "lastRecalledAt": "2026-04-12T21:00:40.919Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "possible",
+        "lasting",
+        "truths",
+        "candidate",
+        "assistant",
+        "履歷"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1338:1340": {
+      "key": "memory:memory/2026-04-12.md:1338:1340",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1338,
+      "endLine": 1340,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T22:00:40.858Z",
+      "lastRecalledAt": "2026-04-12T22:00:40.858Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "possible",
+        "lasting",
+        "truths",
+        "candidate",
+        "assistant",
+        "履歷"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1358:1361": {
+      "key": "memory:memory/2026-04-12.md:1358:1361",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1358,
+      "endLine": 1361,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `reflections` kept surfacing across 152 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T22:00:40.858Z",
+      "lastRecalledAt": "2026-04-12T23:00:41.021Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1362:1365": {
+      "key": "memory:memory/2026-04-12.md:1362:1365",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1362,
+      "endLine": 1365,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `theme` kept surfacing across 152 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T22:00:40.858Z",
+      "lastRecalledAt": "2026-04-12T23:00:41.021Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1368:1370": {
+      "key": "memory:memory/2026-04-12.md:1368:1370",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1368,
+      "endLine": 1370,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T22:00:40.858Z",
+      "lastRecalledAt": "2026-04-12T23:00:41.021Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "possible",
+        "lasting",
+        "truths",
+        "candidate",
+        "assistant",
+        "履歷"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1388:1391": {
+      "key": "memory:memory/2026-04-12.md:1388:1391",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1388,
+      "endLine": 1391,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `reflections` kept surfacing across 154 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T23:00:41.021Z",
+      "lastRecalledAt": "2026-04-13T00:00:41.076Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1392:1395": {
+      "key": "memory:memory/2026-04-12.md:1392:1395",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1392,
+      "endLine": 1395,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `theme` kept surfacing across 154 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T23:00:41.021Z",
+      "lastRecalledAt": "2026-04-13T00:00:41.076Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-12.md:1398:1400": {
+      "key": "memory:memory/2026-04-12.md:1398:1400",
+      "path": "memory/2026-04-12.md",
+      "startLine": 1398,
+      "endLine": 1400,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-12T23:00:41.021Z",
+      "lastRecalledAt": "2026-04-13T00:00:41.076Z",
+      "queryHashes": [
+        "01679c334ef2"
+      ],
+      "recallDays": [
+        "2026-04-12",
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "possible",
+        "lasting",
+        "truths",
+        "candidate",
+        "assistant",
+        "履歷"
+      ]
+    },
+    "memory:memory/2026-04-13.md:108:111": {
+      "key": "memory:memory/2026-04-13.md:108:111",
+      "path": "memory/2026-04-13.md",
+      "startLine": 108,
+      "endLine": 111,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `reflections` kept surfacing across 154 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T01:46:03.810Z",
+      "lastRecalledAt": "2026-04-13T01:46:03.810Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-13.md:112:115": {
+      "key": "memory:memory/2026-04-13.md:112:115",
+      "path": "memory/2026-04-13.md",
+      "startLine": 112,
+      "endLine": 115,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `theme` kept surfacing across 154 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T01:46:03.810Z",
+      "lastRecalledAt": "2026-04-13T01:46:03.810Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-13.md:118:120": {
+      "key": "memory:memory/2026-04-13.md:118:120",
+      "path": "memory/2026-04-13.md",
+      "startLine": 118,
+      "endLine": 120,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T01:46:03.810Z",
+      "lastRecalledAt": "2026-04-13T01:46:03.810Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "possible",
+        "lasting",
+        "truths",
+        "candidate",
+        "assistant",
+        "履歷"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T01:46:03.810Z",
+      "lastRecalledAt": "2026-04-13T01:46:03.810Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T01:46:03.810Z",
+      "lastRecalledAt": "2026-04-13T01:46:03.810Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/2026-04-13.md:168:171": {
+      "key": "memory:memory/2026-04-13.md:168:171",
+      "path": "memory/2026-04-13.md",
+      "startLine": 168,
+      "endLine": 171,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `reflections` kept surfacing across 158 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T01:46:03.810Z",
+      "lastRecalledAt": "2026-04-13T02:46:04.466Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-13.md:172:175": {
+      "key": "memory:memory/2026-04-13.md:172:175",
+      "path": "memory/2026-04-13.md",
+      "startLine": 172,
+      "endLine": 175,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `theme` kept surfacing across 158 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T01:46:03.810Z",
+      "lastRecalledAt": "2026-04-13T02:46:04.466Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-13.md:178:180": {
+      "key": "memory:memory/2026-04-13.md:178:180",
+      "path": "memory/2026-04-13.md",
+      "startLine": 178,
+      "endLine": 180,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T01:46:03.810Z",
+      "lastRecalledAt": "2026-04-13T02:46:04.466Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "possible",
+        "lasting",
+        "truths",
+        "candidate",
+        "assistant",
+        "履歷"
+      ]
+    },
+    "memory:memory/2026-04-13.md:188:191": {
+      "key": "memory:memory/2026-04-13.md:188:191",
+      "path": "memory/2026-04-13.md",
+      "startLine": 188,
+      "endLine": 191,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `reflections` kept surfacing across 160 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T02:46:04.466Z",
+      "lastRecalledAt": "2026-04-13T03:00:03.101Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-13.md:192:195": {
+      "key": "memory:memory/2026-04-13.md:192:195",
+      "path": "memory/2026-04-13.md",
+      "startLine": 192,
+      "endLine": 195,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `theme` kept surfacing across 160 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T02:46:04.466Z",
+      "lastRecalledAt": "2026-04-13T03:00:03.101Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-13.md:198:200": {
+      "key": "memory:memory/2026-04-13.md:198:200",
+      "path": "memory/2026-04-13.md",
+      "startLine": 198,
+      "endLine": 200,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T02:46:04.466Z",
+      "lastRecalledAt": "2026-04-13T03:00:03.101Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "possible",
+        "lasting",
+        "truths",
+        "candidate",
+        "assistant",
+        "履歷"
+      ]
+    },
+    "memory:memory/2026-04-13.md:203:206": {
+      "key": "memory:memory/2026-04-13.md:203:206",
+      "path": "memory/2026-04-13.md",
+      "startLine": 203,
+      "endLine": 206,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `reflections` kept surfacing across 162 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T03:00:03.101Z",
+      "lastRecalledAt": "2026-04-13T04:00:03.351Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-13.md:207:210": {
+      "key": "memory:memory/2026-04-13.md:207:210",
+      "path": "memory/2026-04-13.md",
+      "startLine": 207,
+      "endLine": 210,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `theme` kept surfacing across 162 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T03:00:03.101Z",
+      "lastRecalledAt": "2026-04-13T04:00:03.351Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-13.md:213:215": {
+      "key": "memory:memory/2026-04-13.md:213:215",
+      "path": "memory/2026-04-13.md",
+      "startLine": 213,
+      "endLine": 215,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T03:00:03.101Z",
+      "lastRecalledAt": "2026-04-13T04:00:03.351Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "possible",
+        "lasting",
+        "truths",
+        "candidate",
+        "assistant",
+        "履歷"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: A scheduled reminder has been triggered. The reminder content is: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T04:00:03.351Z",
+      "lastRecalledAt": "2026-04-13T04:00:03.351Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "user",
+        "scheduled",
+        "reminder",
+        "has",
+        "been",
+        "triggered"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T04:00:03.351Z",
+      "lastRecalledAt": "2026-04-13T04:00:03.351Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/2026-04-13.md:218:221": {
+      "key": "memory:memory/2026-04-13.md:218:221",
+      "path": "memory/2026-04-13.md",
+      "startLine": 218,
+      "endLine": 221,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `reflections` kept surfacing across 164 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T04:00:03.351Z",
+      "lastRecalledAt": "2026-04-13T05:00:03.156Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-13.md:222:225": {
+      "key": "memory:memory/2026-04-13.md:222:225",
+      "path": "memory/2026-04-13.md",
+      "startLine": 222,
+      "endLine": 225,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `theme` kept surfacing across 164 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T04:00:03.351Z",
+      "lastRecalledAt": "2026-04-13T05:00:03.156Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-13.md:228:230": {
+      "key": "memory:memory/2026-04-13.md:228:230",
+      "path": "memory/2026-04-13.md",
+      "startLine": 228,
+      "endLine": 230,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T04:00:03.351Z",
+      "lastRecalledAt": "2026-04-13T05:00:03.156Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "possible",
+        "lasting",
+        "truths",
+        "candidate",
+        "assistant",
+        "履歷"
+      ]
+    },
+    "memory:memory/2026-04-13.md:228:231": {
+      "key": "memory:memory/2026-04-13.md:228:231",
+      "path": "memory/2026-04-13.md",
+      "startLine": 228,
+      "endLine": 231,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `reflections` kept surfacing across 166 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T05:00:03.156Z",
+      "lastRecalledAt": "2026-04-13T06:00:08.310Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-13.md:232:235": {
+      "key": "memory:memory/2026-04-13.md:232:235",
+      "path": "memory/2026-04-13.md",
+      "startLine": 232,
+      "endLine": 235,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `theme` kept surfacing across 166 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T05:00:03.156Z",
+      "lastRecalledAt": "2026-04-13T06:00:08.310Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-13.md:238:240": {
+      "key": "memory:memory/2026-04-13.md:238:240",
+      "path": "memory/2026-04-13.md",
+      "startLine": 238,
+      "endLine": 240,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T05:00:03.156Z",
+      "lastRecalledAt": "2026-04-13T06:00:08.310Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "possible",
+        "lasting",
+        "truths",
+        "candidate",
+        "assistant",
+        "履歷"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T06:00:08.310Z",
+      "lastRecalledAt": "2026-04-13T06:00:08.310Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-13.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-13.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-13.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-13T06:00:08.310Z",
+      "lastRecalledAt": "2026-04-13T06:00:08.310Z",
+      "queryHashes": [
+        "27426694d940"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/2026-04-13.md:238:241": {
+      "key": "memory:memory/2026-04-13.md:238:241",
+      "path": "memory/2026-04-13.md",
+      "startLine": 238,
+      "endLine": 241,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `reflections` kept surfacing across 168 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T06:00:08.310Z",
+      "lastRecalledAt": "2026-04-13T07:00:16.702Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-13.md:242:245": {
+      "key": "memory:memory/2026-04-13.md:242:245",
+      "path": "memory/2026-04-13.md",
+      "startLine": 242,
+      "endLine": 245,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `theme` kept surfacing across 168 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T06:00:08.310Z",
+      "lastRecalledAt": "2026-04-13T07:00:16.702Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-13.md:248:250": {
+      "key": "memory:memory/2026-04-13.md:248:250",
+      "path": "memory/2026-04-13.md",
+      "startLine": 248,
+      "endLine": 250,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T06:00:08.310Z",
+      "lastRecalledAt": "2026-04-13T07:00:16.702Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "possible",
+        "lasting",
+        "truths",
+        "candidate",
+        "assistant",
+        "履歷"
+      ]
+    },
+    "memory:memory/2026-04-13.md:248:251": {
+      "key": "memory:memory/2026-04-13.md:248:251",
+      "path": "memory/2026-04-13.md",
+      "startLine": 248,
+      "endLine": 251,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `reflections` kept surfacing across 168 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T07:00:16.702Z",
+      "lastRecalledAt": "2026-04-13T07:00:16.702Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-13.md:252:255": {
+      "key": "memory:memory/2026-04-13.md:252:255",
+      "path": "memory/2026-04-13.md",
+      "startLine": 252,
+      "endLine": 255,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `theme` kept surfacing across 168 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T07:00:16.702Z",
+      "lastRecalledAt": "2026-04-13T07:00:16.702Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
+      ],
+      "conceptTags": [
+        "1.00",
+        "memory/2026-04-10.md",
+        "118-121",
+        "122-125",
+        "126-129",
+        "reflections",
+        "theme",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-13.md:258:260": {
+      "key": "memory:memory/2026-04-13.md:258:260",
+      "path": "memory/2026-04-13.md",
+      "startLine": 258,
+      "endLine": 260,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-13T07:00:16.702Z",
+      "lastRecalledAt": "2026-04-13T07:00:16.702Z",
+      "queryHashes": [
+        "0dac2e09ca9b"
+      ],
+      "recallDays": [
+        "2026-04-13"
       ],
       "conceptTags": [
         "index.md",
