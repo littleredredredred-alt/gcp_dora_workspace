@@ -1,0 +1,8 @@
+[dora/sessions/28b52d5b-e7a2-4f06-a5ed-404cb933f76d.jsonl#L191] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e
+[dora/sessions/28b52d5b-e7a2-4f06-a5ed-404cb933f76d.jsonl#L194] Assistant: HEARTBEAT_OK
+[dora/sessions/28b52d5b-e7a2-4f06-a5ed-404cb933f76d.jsonl#L195] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e
+[dora/sessions/28b52d5b-e7a2-4f06-a5ed-404cb933f76d.jsonl#L198] Assistant: HEARTBEAT_OK
+[dora/sessions/28b52d5b-e7a2-4f06-a5ed-404cb933f76d.jsonl#L199] User: A scheduled reminder has been triggered. The reminder content is: 📌 **下午研究提醒：NVIDIA API + MiniMax M2.7** 現在是 **台北下午 3 點**，該開始研究這篇文章了。 --- **文章核心摘要（NVIDIA Developer Blog，2026/4/11）** **MiniMax M2.7 是什麼** - 稀疏 MoE（Mixture-of-Experts）模型，總參數 230B，每次只激活 10B（4.3%） - 256 個專家，每次激活
+[dora/sessions/28b52d5b-e7a2-4f06-a5ed-404cb933f76d.jsonl#L202] Assistant: HEARTBEAT_OK
+[dora/sessions/28b52d5b-e7a2-4f06-a5ed-404cb933f76d.jsonl#L203] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e
+[dora/sessions/28b52d5b-e7a2-4f06-a5ed-404cb933f76d.jsonl#L204] Assistant: HEARTBEAT_OK
