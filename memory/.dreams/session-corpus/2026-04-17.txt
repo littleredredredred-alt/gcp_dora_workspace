@@ -1,0 +1,4 @@
+[dora/sessions/b9aa6ea5-b38a-4e45-88a5-d12e28497b07.jsonl#L5] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e
+[dora/sessions/b9aa6ea5-b38a-4e45-88a5-d12e28497b07.jsonl#L11] Assistant: HEARTBEAT_OK
+[dora/sessions/ebd7b65e-ff38-4762-90ae-e57942f5e655.jsonl#L5] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e
+[dora/sessions/ebd7b65e-ff38-4762-90ae-e57942f5e655.jsonl#L10] Assistant: HEARTBEAT_OK

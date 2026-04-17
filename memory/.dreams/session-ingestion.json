@@ -37,18 +37,18 @@
       "lastContentLine": 4
     },
     "dora:sessions/28b52d5b-e7a2-4f06-a5ed-404cb933f76d.jsonl": {
-      "mtimeMs": 1776229221669,
-      "size": 134642,
-      "contentHash": "389fc3964177ec6f1c1e63c60807e59e97930dd49b5026977ff9c7bed23a0192",
-      "lineCount": 102,
-      "lastContentLine": 102
+      "mtimeMs": 1776322613014,
+      "size": 161101,
+      "contentHash": "21d4bca01deb943f3f42dd72bcd3d7061356cb6a2dddae7656e44187ea910f3e",
+      "lineCount": 122,
+      "lastContentLine": 122
     },
-    "dora:sessions/49799448-28d8-4644-92ea-7c29b7f791f5.jsonl": {
-      "mtimeMs": 1776137850481,
-      "size": 115451,
-      "contentHash": "c6e7e3cc04aa2ef931f4d4b7eada7c13f5bb0a3857573751e6090d12b6709f72",
-      "lineCount": 14,
-      "lastContentLine": 14
+    "dora:sessions/49799448-28d8-4644-92ea-7c29b7f791f5.jsonl.reset.2026-04-15T09-40-26.351Z": {
+      "mtimeMs": 1776232487142,
+      "size": 128346,
+      "contentHash": "b962f4eb69a9d33d6f533f4039248e91b7bdbbc794b439feab07d3009b1a9d90",
+      "lineCount": 16,
+      "lastContentLine": 16
     },
     "dora:sessions/499f28b2-2132-4284-9627-06c3a7962da1.jsonl.reset.2026-04-02T15-46-33.065Z": {
       "mtimeMs": 1774892201128,
@@ -77,6 +77,13 @@
       "contentHash": "cc14e895a2ada7df43c7100d41a156fe3a8c9087079b403cb6291a84aafd0ede",
       "lineCount": 12,
       "lastContentLine": 12
+    },
+    "dora:sessions/85c69f37-8502-438d-8d44-0f8411fafc7d.jsonl": {
+      "mtimeMs": 1776329864997,
+      "size": 4861,
+      "contentHash": "0d910ca80a9687e67dc598287d01cb23d3a0691600583e8dd9ea8791028fc0ac",
+      "lineCount": 2,
+      "lastContentLine": 2
     },
     "dora:sessions/97612817-7206-4fac-b418-2ae6cabd77eb.jsonl.deleted.2026-04-05T10-02-08.706Z": {
       "mtimeMs": 1775383327617,
@@ -110,6 +117,55 @@
       "mtimeMs": 1775442009581,
       "size": 2846,
       "contentHash": "ff5917e46e9d9f372ff96091ae2cc23a18d41dddd3c99d42bdb12be4945e1126",
+      "lineCount": 2,
+      "lastContentLine": 2
+    },
+    "dora:sessions/b9aa6ea5-b38a-4e45-88a5-d12e28497b07.jsonl": {
+      "mtimeMs": 1776394621003,
+      "size": 5518,
+      "contentHash": "4c3e6fc9f6b3dc9bdd1fc6ad6e66f80f00ceec9f60eefed8200945685a454181",
+      "lineCount": 2,
+      "lastContentLine": 2
+    },
+    "dora:sessions/c4463567-178e-45d5-8d3a-d4acaeb6c0b8.jsonl.deleted.2026-04-15T12-03-14.942Z": {
+      "mtimeMs": 1776254594067,
+      "size": 9492,
+      "contentHash": "5a2c5c2f23b15f81b0e4cdec996be5657fc4b0b2d25360c69d5b2e7374bd5078",
+      "lineCount": 2,
+      "lastContentLine": 2
+    },
+    "dora:sessions/cff73dbc-131a-4542-983f-71760a2df7d1.jsonl": {
+      "mtimeMs": 1776337014431,
+      "size": 5051,
+      "contentHash": "83d53ad6766eb358fbe34949fdca37d8c5e8f5ac04f2df7d72942317dab0b712",
+      "lineCount": 2,
+      "lastContentLine": 2
+    },
+    "dora:sessions/db53527c-f8e9-4b98-b4e2-9b1a57d3e8e5.jsonl": {
+      "mtimeMs": 1776344210329,
+      "size": 5445,
+      "contentHash": "8367381783ff240b36ad1ebbde46a1ac7b6d68d7211ada8df90edf4cb852d02d",
+      "lineCount": 2,
+      "lastContentLine": 2
+    },
+    "dora:sessions/e36c4482-7c15-4a09-a8d2-b5a163657163.jsonl": {
+      "mtimeMs": 1776356144864,
+      "size": 483564,
+      "contentHash": "2d5bb54fd6dfeaeb50613995f068566220cf89af48f387d45f7445bab30deb9a",
+      "lineCount": 7,
+      "lastContentLine": 7
+    },
+    "dora:sessions/e7f7ff13-80cf-47dc-808f-ed824562dacc.jsonl": {
+      "mtimeMs": 1776351418391,
+      "size": 5433,
+      "contentHash": "15b9c8a7859cfa813d0fd2c8f950aa4e29f4bdedc58e77c44a957ef863f069f5",
+      "lineCount": 2,
+      "lastContentLine": 2
+    },
+    "dora:sessions/ebd7b65e-ff38-4762-90ae-e57942f5e655.jsonl": {
+      "mtimeMs": 1776387413421,
+      "size": 4602,
+      "contentHash": "0421ef80e6fc528b99dc461ad4f130aa071934a1e852fd70e1525a121a62d1c5",
       "lineCount": 2,
       "lastContentLine": 2
     },
@@ -226,7 +282,27 @@
       "4193cb333a4ae540be85dea61051cd7f7f709dc2",
       "6df72a717b9513f4222313b8a0585422f5a7d1d8",
       "f205d924debb5768caf5da3237ee50d73e2363ba",
-      "f5235a9389a4f4f421ce03939047a5fc863f1fe7"
+      "f5235a9389a4f4f421ce03939047a5fc863f1fe7",
+      "595953bc593db326ba7b2ecb36f96e4bd11cd077",
+      "1ca00a8ce1f358eb562d5b639525938f08f7d72c",
+      "257beed56dee26880c430060f9163592ccea6be3",
+      "6378c45c1588a81c0f491586bca9a5c88af8520a",
+      "ba6a396d52857775b7d2f4249dbaab86b9aa097f",
+      "4d82e08b96a598dc7eee2f2069cfcf806021807c",
+      "5319550b3f717971c474c67ec8dd7b8b993aa40f",
+      "27923aaef3ece8e47895940ff053d631ce600c08",
+      "829798ee7808266ca18d670d9fdd98cbad59a775",
+      "dec58a1120d78d6129d7652f56544a98e0223f81",
+      "ef5f8b64e7cdb848fc51f1f3569237ac0677ece4",
+      "68525adc15275ce878adaadf5ea800a213508a6d",
+      "63ba99280e4c782a523f79ddb5b0749c39989774",
+      "57b44e20d276e419e62f487b739eea5fae1c7811",
+      "3205393aa54462278867f66da6f079383ab5059e",
+      "baa2c5e95f4ca160107845c8ecad3775d916dbeb",
+      "954f0bf859fc8a6a2fc3309ce84a0de09319617b",
+      "e73784acb3f57bdd31782c04eb114cc8dc08f8aa",
+      "2860828af6953eaeeb45ac28b5f3d6195c509514",
+      "61b34bb2cfe4b69133e203072c549cb0b0139d6c"
     ],
     "dora:62014eaa-5af7-4747-8812-7f16120c1000": [
       "cf3def760beb84c89ea2cd5eb23908475733dd43",
@@ -278,7 +354,9 @@
       "7d8f9737e9e865a8873265d6bf888639434196d1",
       "6718d16fb7315b7b6e34d1dce61b4a02ee87fc02",
       "e1b7330559f12f35e7c61f1fb3a12ad26afe2cfc",
-      "0d2f011eb972bf41f9e06f4d6cc4f8c15f9f0409"
+      "0d2f011eb972bf41f9e06f4d6cc4f8c15f9f0409",
+      "b146d85b64f397f1ab1834c3b7e00c2719c9d0f0",
+      "706b12fe3491fd3ddfe98af3a33b2b5c0ce71543"
     ],
     "dora:a7e65c85-072d-40e0-8744-157ad709b948": [
       "3ff781ae7f0d02df1f36fdd269c92335a41b8ece",
@@ -289,6 +367,43 @@
       "36369a791e30f2d928b4dd3041b0486673e1c883",
       "7da7bcba4dbc443307aa36b6e7cacda519799158",
       "4494e20eb07c39f07e188121eb1cc71aa37e51c9"
+    ],
+    "dora:c4463567-178e-45d5-8d3a-d4acaeb6c0b8": [
+      "d886b5525a285d5ca934364846a2bba160bbef6a",
+      "4bbb28083528ae54e823655fecc2ff679e5fba0e"
+    ],
+    "dora:e36c4482-7c15-4a09-a8d2-b5a163657163": [
+      "439966d08a7f3507e7c18bec47022eb71054f415",
+      "c6bb3951bdcc7250414ad456dfecf583c54a4674",
+      "359da853c54242ab8f05278e124bf2c332c6f6dd",
+      "ebf3d3ed4168adfc69dcb331811b4f461946bf42",
+      "291e967aeba293eba4f974995d5df6e9736795a0",
+      "fe753a4e47544b5ef787faec95e765f634afe18c",
+      "f234a4dcf0b71fe7a7fb3b906cba6a5625153f81"
+    ],
+    "dora:85c69f37-8502-438d-8d44-0f8411fafc7d": [
+      "3e375df172b856283cffb20aa7b9063563a49781",
+      "2a49da55e570a7b58f9272c325097afe3cc57acd"
+    ],
+    "dora:b9aa6ea5-b38a-4e45-88a5-d12e28497b07": [
+      "6b59b9990da545598a1ac05cd411484b7307d4bc",
+      "e5549de444889fa1ad70d67ea7d1685298d56f02"
+    ],
+    "dora:cff73dbc-131a-4542-983f-71760a2df7d1": [
+      "d9db32a0ed0d352ea1715a1805a75406db79b14f",
+      "52bd0846a797f9b39360396cabaa9ba0bde1b44f"
+    ],
+    "dora:db53527c-f8e9-4b98-b4e2-9b1a57d3e8e5": [
+      "2fc53421bb3f21f4386b831eace9c3ff7b5f706d",
+      "a2ceae61b82889344838c7b4caeec68e3abfe33d"
+    ],
+    "dora:e7f7ff13-80cf-47dc-808f-ed824562dacc": [
+      "24db6adf3bf27e2e8ef47ac5334862d2d2b66b50",
+      "0670c4b7d9fc09cf1ee105f33f8d5a2813edfa90"
+    ],
+    "dora:ebd7b65e-ff38-4762-90ae-e57942f5e655": [
+      "7b2815cdb34be5cb9ac02a1a6f82786e583dd703",
+      "c2e6b6564ef06d4074d97ed4b2803f32873778bc"
     ]
   }
 }
