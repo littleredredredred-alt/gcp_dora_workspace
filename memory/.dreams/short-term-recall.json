@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-19T15:05:05.124Z",
+  "updatedAt": "2026-04-20T12:34:22.951Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
@@ -4497,7 +4497,7 @@
         "heartbeat.md",
         "heartbeat-ok",
         "home/node",
-        "candidate"
+        "3-3"
       ],
       "promotedAt": "2026-04-19T13:54:05.295Z"
     },
@@ -4507,7 +4507,7 @@
       "startLine": 234,
       "endLine": 259,
       "source": "memory",
-      "snippet": "- confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:20-20 - recalls: 0 - status: staged - Candidate: Assistant: 算錯時差了，幫你修成晚上8點（台灣時間）： - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:21-21 - recalls: 0 - status: staged - Candidate: Assistant: ✅ 已設定，今晚 8 點（台灣時間）提醒你看 `reports/job-search-taipei-cv-ai-2026-04-08.md`。 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:22-22 - recalls: 0 - status: staged - Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"15\", \"sender_id\": \"8590675031\", \"sender\": \"Eric\", \"timestamp\": \"Thu 2026-04-09 12:38 UTC\" } ``` Sender (untrusted",
+      "snippet": "- confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:20-20 - recalls: 0 - status: staged - Candidate: Assistant: 算錯時差了，幫你修成晚上8點（台灣時間）： - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:21-21 - recalls: 0 - status: staged - Candidate: Assistant: ✅ 已設定，今晚 8 點（台灣時間）提醒你看 `reports/job-search-taipei-cv-ai-2026-04-08.md`。 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:22-22 - recalls: 0 - status: staged - Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"15\", \"sender_id\": \"8590675031\", \"sender\": \"Eric\", \"timestamp\": \"Thu 2026-04-09 12:38 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Eric (8590675031)\", \"id\": \"8590675031\", \"name\": \"Eric\" } ``` 星期六 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:23-23 - recalls: 0 - status: staged - Candidate: Assistant: ✅ 設定好了： - 週六（4/11）晚上 8 點提醒 - 週日（4/12）晚上 8 點提醒 兩個都是一次性提醒，觸發後自動刪除。 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:24-24 - recalls: 0 - status: staged - Candidate: User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Thu 2026-04-09 06:30 UTC] 星期六下午6點提醒我繳牌照稅 - confidence: 0.00",
       "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
@@ -4534,7 +4534,8 @@
         "sender-id",
         "confidence",
         "evidence"
-      ]
+      ],
+      "promotedAt": "2026-04-20T03:04:49.634Z"
     },
     "memory:memory/2026-04-11.md:228:254": {
       "key": "memory:memory/2026-04-11.md:228:254",
@@ -4606,8 +4607,8 @@
         "0.00",
         "1-1",
         "2-2",
-        "reports/job-s",
-        "recalls"
+        "index.md",
+        "second-brain-skill-spec.md"
       ],
       "promotedAt": "2026-04-19T13:54:05.295Z"
     },
@@ -10060,7 +10061,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T07:00:16.702Z",
-      "lastRecalledAt": "2026-04-19T13:54:05.295Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
@@ -10070,7 +10071,8 @@
         "2026-04-16",
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ],
       "conceptTags": [
         "1.00",
@@ -10096,7 +10098,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T07:00:16.702Z",
-      "lastRecalledAt": "2026-04-19T13:54:05.295Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
@@ -10106,7 +10108,8 @@
         "2026-04-16",
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ],
       "conceptTags": [
         "1.00",
@@ -10132,7 +10135,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T07:00:16.702Z",
-      "lastRecalledAt": "2026-04-19T13:54:05.295Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
@@ -10142,7 +10145,8 @@
         "2026-04-16",
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ],
       "conceptTags": [
         "index.md",
@@ -11008,7 +11012,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-15T03:05:51.933Z",
-      "lastRecalledAt": "2026-04-19T13:54:05.295Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
@@ -11017,7 +11021,8 @@
         "2026-04-15",
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ],
       "conceptTags": [
         "0.95",
@@ -11043,7 +11048,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-15T03:05:51.933Z",
-      "lastRecalledAt": "2026-04-19T13:54:05.295Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
@@ -11052,7 +11057,8 @@
         "2026-04-15",
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ],
       "conceptTags": [
         "0.95",
@@ -11078,7 +11084,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-15T03:05:51.933Z",
-      "lastRecalledAt": "2026-04-19T13:54:05.295Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
@@ -11087,7 +11093,8 @@
         "2026-04-15",
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ],
       "conceptTags": [
         "index.md",
@@ -12307,7 +12314,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-15T05:09:30.594Z",
-      "lastRecalledAt": "2026-04-19T13:54:05.295Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
       "queryHashes": [
         "4c4c0cb04efa"
       ],
@@ -12315,7 +12322,8 @@
         "2026-04-15",
         "2026-04-16",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ],
       "conceptTags": [
         "0.91",
@@ -12341,7 +12349,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-15T05:09:30.594Z",
-      "lastRecalledAt": "2026-04-19T13:54:05.295Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
       "queryHashes": [
         "4c4c0cb04efa"
       ],
@@ -12349,7 +12357,8 @@
         "2026-04-15",
         "2026-04-16",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ],
       "conceptTags": [
         "0.91",
@@ -12375,7 +12384,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-15T05:09:30.594Z",
-      "lastRecalledAt": "2026-04-19T13:54:05.295Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
       "queryHashes": [
         "4c4c0cb04efa"
       ],
@@ -12383,7 +12392,8 @@
         "2026-04-15",
         "2026-04-16",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ],
       "conceptTags": [
         "heartbeat-ok",
@@ -12409,7 +12419,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-15T05:09:30.594Z",
-      "lastRecalledAt": "2026-04-19T13:54:05.295Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
       "queryHashes": [
         "4c4c0cb04efa"
       ],
@@ -12417,7 +12427,8 @@
         "2026-04-15",
         "2026-04-16",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ],
       "conceptTags": [
         "index.md",
@@ -13133,14 +13144,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-17T03:04:29.011Z",
-      "lastRecalledAt": "2026-04-19T13:54:05.295Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
       "queryHashes": [
         "b628913e3912"
       ],
       "recallDays": [
         "2026-04-16",
         "2026-04-17",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ],
       "conceptTags": [
         "0.86",
@@ -13166,14 +13178,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-17T03:04:29.011Z",
-      "lastRecalledAt": "2026-04-19T13:54:05.295Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
       "queryHashes": [
         "b628913e3912"
       ],
       "recallDays": [
         "2026-04-16",
         "2026-04-17",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ],
       "conceptTags": [
         "0.86",
@@ -13199,14 +13212,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-17T03:04:29.011Z",
-      "lastRecalledAt": "2026-04-19T13:54:05.295Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
       "queryHashes": [
         "b628913e3912"
       ],
       "recallDays": [
         "2026-04-16",
         "2026-04-17",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ],
       "conceptTags": [
         "heartbeat-ok",
@@ -13232,14 +13246,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-17T03:04:29.011Z",
-      "lastRecalledAt": "2026-04-19T13:54:05.295Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
       "queryHashes": [
         "b628913e3912"
       ],
       "recallDays": [
         "2026-04-16",
         "2026-04-17",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ],
       "conceptTags": [
         "index.md",
@@ -13847,14 +13862,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-18T03:05:31.940Z",
-      "lastRecalledAt": "2026-04-19T13:54:05.295Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
       "queryHashes": [
         "500c0eda9949"
       ],
       "recallDays": [
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ],
       "conceptTags": [
         "heartbeat-ok",
@@ -13880,14 +13896,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-18T03:05:31.940Z",
-      "lastRecalledAt": "2026-04-19T13:54:05.295Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
       "queryHashes": [
         "500c0eda9949"
       ],
       "recallDays": [
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ],
       "conceptTags": [
         "0.83",
@@ -13913,14 +13930,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-18T03:05:31.940Z",
-      "lastRecalledAt": "2026-04-19T13:54:05.295Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
       "queryHashes": [
         "500c0eda9949"
       ],
       "recallDays": [
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ],
       "conceptTags": [
         "0.83",
@@ -13946,14 +13964,15 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-18T03:05:31.940Z",
-      "lastRecalledAt": "2026-04-19T13:54:05.295Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
       "queryHashes": [
         "500c0eda9949"
       ],
       "recallDays": [
         "2026-04-17",
         "2026-04-18",
-        "2026-04-19"
+        "2026-04-19",
+        "2026-04-20"
       ],
       "conceptTags": [
         "index.md",
@@ -15044,6 +15063,814 @@
         "memory/2026-04-10.md",
         "118-121",
         "122-125"
+      ]
+    },
+    "memory:memory/2026-04-19.md:243:246": {
+      "key": "memory:memory/2026-04-19.md:243:246",
+      "path": "memory/2026-04-19.md",
+      "startLine": 243,
+      "endLine": 246,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 136 memories.; confidence: 0.90; evidence: memory/2026-04-10.md:273-276, memory/2026-04-10.md:183-204, memory/2026-04-11.md:228-254; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "21faa0df9302"
+      ],
+      "recallDays": [
+        "2026-04-19",
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "0.90",
+        "memory/2026-04-10.md",
+        "273-276",
+        "183-204",
+        "memory/2026-04-11.md",
+        "228-254",
+        "reflections"
+      ]
+    },
+    "memory:memory/2026-04-19.md:247:250": {
+      "key": "memory:memory/2026-04-19.md:247:250",
+      "path": "memory/2026-04-19.md",
+      "startLine": 247,
+      "endLine": 250,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 115 memories.; confidence: 0.76; evidence: memory/2026-04-10.md:277-280, memory/2026-04-11.md:1597-1599, memory/2026-04-12.md:202-204; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "21faa0df9302"
+      ],
+      "recallDays": [
+        "2026-04-19",
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "0.76",
+        "memory/2026-04-10.md",
+        "277-280",
+        "memory/2026-04-11.md",
+        "1597-1599",
+        "memory/2026-04-12.md",
+        "202-204",
+        "reflections"
+      ]
+    },
+    "memory:memory/2026-04-19.md:253:255": {
+      "key": "memory:memory/2026-04-19.md:253:255",
+      "path": "memory/2026-04-19.md",
+      "startLine": 253,
+      "endLine": 255,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "21faa0df9302"
+      ],
+      "recallDays": [
+        "2026-04-19",
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "index.md",
+        "second-brain-skill-spec.md",
+        "possible",
+        "lasting",
+        "truths",
+        "candidate",
+        "assistant",
+        "履歷"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"39\", \"sender_id\": \"8590675031\", \"sender\": \"Eric\", \"timestamp\": \"Sun 2026-04-19 17:22 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Eric (8590675031)\", \"id\": \"8590675031\", \"name\": \"Eric\" } ``` 要提醒",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19",
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: ✅ 已設定！明天（4/20）晚上 8:30 會提醒你。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19",
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "4/20",
+        "assistant",
+        "設定",
+        "明天",
+        "晚上",
+        "提醒"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"41\", \"sender_id\": \"8590675031\", \"sender\": \"Eric\", \"timestamp\": \"Sun 2026-04-19 17:22 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Eric (8590675031)\", \"id\": \"8590675031\", \"name\": \"Eric\" } ``` vps",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19",
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: 好，提醒已刪除。VPS 轉移順利嗎？需要幫忙設定新的定時提醒隨時說。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19",
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "assistant",
+        "提醒",
+        "刪除",
+        "vps",
+        "轉移",
+        "順利",
+        "需要",
+        "幫忙"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"43\", \"sender_id\": \"8590675031\", \"sender\": \"Eric\", \"timestamp\": \"Sun 2026-04-19 17:23 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Eric (8590675031)\", \"id\": \"8590675031\", \"name\": \"Eric\" } ``` 不對，",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19",
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: 我剛才檢查了一次， 目前沒有任何「牌照稅」的定時提醒存在。 你說的是 4/20 晚上 8:30 的那一個（我已經刪掉了），還是之前另有設定一個不同的？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19",
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "4/20",
+        "assistant",
+        "剛才",
+        "檢查",
+        "一次",
+        "目前",
+        "沒有",
+        "任何"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"45\", \"sender_id\": \"8590675031\", \"sender\": \"Eric\", \"timestamp\": \"Sun 2026-04-19 17:24 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Eric (8590675031)\", \"id\": \"8590675031\", \"name\": \"Eric\" } ``` 重新幫",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19",
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "user",
+        "conversation",
+        "info",
+        "untrusted",
+        "metadata",
+        "sender"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: 已設定！明天（4/20）晚上 8:30 會提醒你繳牌照稅。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19",
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "4/20",
+        "assistant",
+        "設定",
+        "明天",
+        "晚上",
+        "提醒",
+        "牌照稅"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "User: A scheduled reminder has been triggered. The reminder content is: Reminder recorded. The scheduled task was supposed to fire Saturday 2026-04-18 15:00 Taipei (07:00 UTC) but missed — it triggered almost 31 hours late on Sunday 2026-04-19 13:49 UTC. I've logged it and update",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19",
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "user",
+        "scheduled",
+        "reminder",
+        "has",
+        "been",
+        "triggered",
+        "the",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19",
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "User: [cron:4d75516d-96ce-40c6-82bd-77a1f94c3d80 📋 提醒：今天是星期日，下午三點記得去繳牌照稅！] 📋 提醒：今天是星期日，下午三點記得去繳牌照稅！ Current time: Sunday, April 19th, 2026 - 3:04 PM (UTC) / 2026-04-19 15:04 UTC Return your summary as plain text; it will be delivered automatically. If the task explicitly calls",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19",
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "user",
+        "cron",
+        "4d75516d",
+        "96ce",
+        "40c6",
+        "82bd",
+        "77a1f94c3d80",
+        "提醒"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-19.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-19.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-04-19.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: 📋 **牌照稅提醒已觸發** 提醒內容：今天是星期日，下午三點記得去繳牌照稅！ 觸發時間：2026-04-19 15:04 UTC（等於台灣時間 23:04） ⚠️ 但根據紀錄，Eric 原本設定的提醒是 **4月11日（星期六）下午6點**。這次觸發的 cron ID（`4d75516d-...`）與記憶中的原始任務 ID 不同，可能是： - 另一筆重新設定的提醒，或 - 時間/日期有誤 建議 Eric 確認：今天（4/19）是否還需要繳牌照稅？還是已經繳過了？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "c9fd66cc4843"
+      ],
+      "recallDays": [
+        "2026-04-19",
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "時間/日期有誤",
+        "4/19",
+        "assistant",
+        "牌照稅",
+        "提醒",
+        "觸發",
+        "內容",
+        "今天是"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-20.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-20.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-20.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "9bbfcb9cbaf5"
+      ],
+      "recallDays": [
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-20.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-20.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-20.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "9bbfcb9cbaf5"
+      ],
+      "recallDays": [
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-20.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-20.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-20.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "9bbfcb9cbaf5"
+      ],
+      "recallDays": [
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-20.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-20.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-20.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-20T03:04:49.634Z",
+      "lastRecalledAt": "2026-04-20T03:04:49.634Z",
+      "queryHashes": [
+        "9bbfcb9cbaf5"
+      ],
+      "recallDays": [
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/2026-04-16.md:243:264": {
+      "key": "memory:memory/2026-04-16.md:243:264",
+      "path": "memory/2026-04-16.md",
+      "startLine": 243,
+      "endLine": 264,
+      "source": "memory",
+      "snippet": "- Candidate: User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Mon 2026-04-13 15:07 UTC] 幫我把這個網站記起來，這網站可以把各種複雜的物理化學之類的知識用動畫的方式演示出來，而且還免費，非常好用: https://phet.colorado.edu/zh_TW/ - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:23-23 - recalls: 0 - status: staged - Candidate: Assistant: 已存。記了： - **網站**：PhET Interactive Simulations（Colorado Boulder 大學開發） - **用途**：用動畫演示物理、化學、生物、地球科學等複雜概念 - **特點**：免費、互動、繁中版 - **標籤**：#物理 #化學 #教學 #動畫 #免費資源 之後問「我之前存過什麼教學網站」或「物理化學動畫」就能找到。 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:24-24 - recalls: 0 - status: staged <!-- openclaw:dr",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.9370850950479507,
+      "maxScore": 0.4695457726716995,
+      "firstRecalledAt": "2026-04-20T07:00:16.758Z",
+      "lastRecalledAt": "2026-04-20T07:02:18.365Z",
+      "queryHashes": [
+        "39d8a20e5091",
+        "575cdc4915db"
+      ],
+      "recallDays": [
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "phet.colorado.edu/zh-tw",
+        "0.00",
+        "23-23",
+        "24-24",
+        "candidate",
+        "user",
+        "sender"
+      ]
+    },
+    "memory:memory/2026-04-14.md:43:54": {
+      "key": "memory:memory/2026-04-14.md:43:54",
+      "path": "memory/2026-04-14.md",
+      "startLine": 43,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "- Candidate: User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Mon 2026-04-13 13:04 UTC] 所以這個功能我可以怎麼使用? 日常跟你說很多事情請你紀錄，然後突然想問幾天前我說過XXX，問你細節這樣嗎? - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:21-21 - recalls: 0 - status: staged - Candidate: Assistant: 對，基本就是那個用法。 **日常使用流程：** 1. **Capture** — 你跟我說任何事，我會存進記憶（目前主要寫入 `memory/` 下的 markdown 檔案） 2. **Compile** — `memory-wiki` 會自動把這些素材編譯成結構化 wiki 頁面（provenance、claims、backlinks） 3. **Recall** — 你哪天問「我之前說過 XXX」，我會用 `memory_search` 同時搜 memory + wiki 層，回你想不起來的那段 **但老實說細節上有些限制：* - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:2",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.9265215814113616,
+      "maxScore": 0.46553499996662134,
+      "firstRecalledAt": "2026-04-20T07:00:16.758Z",
+      "lastRecalledAt": "2026-04-20T07:02:18.365Z",
+      "queryHashes": [
+        "39d8a20e5091",
+        "575cdc4915db"
+      ],
+      "recallDays": [
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "0.00",
+        "21-21",
+        "memory-wiki",
+        "memory-search",
+        "candidate",
+        "user",
+        "sender"
+      ]
+    },
+    "memory:memory/2026-04-15.md:178:189": {
+      "key": "memory:memory/2026-04-15.md:178:189",
+      "path": "memory/2026-04-15.md",
+      "startLine": 178,
+      "endLine": 189,
+      "source": "memory",
+      "snippet": "- Candidate: User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Mon 2026-04-13 13:04 UTC] 所以這個功能我可以怎麼使用? 日常跟你說很多事情請你紀錄，然後突然想問幾天前我說過XXX，問你細節這樣嗎? - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:21-21 - recalls: 0 - status: staged - Candidate: Assistant: 對，基本就是那個用法。 **日常使用流程：** 1. **Capture** — 你跟我說任何事，我會存進記憶（目前主要寫入 `memory/` 下的 markdown 檔案） 2. **Compile** — `memory-wiki` 會自動把這些素材編譯成結構化 wiki 頁面（provenance、claims、backlinks） 3. **Recall** — 你哪天問「我之前說過 XXX」，我會用 `memory_search` 同時搜 memory + wiki 層，回你想不起來的那段 **但老實說細節上有些限制：* - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:2",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.9265215814113616,
+      "maxScore": 0.46553499996662134,
+      "firstRecalledAt": "2026-04-20T07:00:16.758Z",
+      "lastRecalledAt": "2026-04-20T07:02:18.365Z",
+      "queryHashes": [
+        "39d8a20e5091",
+        "575cdc4915db"
+      ],
+      "recallDays": [
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "0.00",
+        "21-21",
+        "memory-wiki",
+        "memory-search",
+        "candidate",
+        "user",
+        "sender"
+      ]
+    },
+    "memory:memory/2026-04-16.md:233:244": {
+      "key": "memory:memory/2026-04-16.md:233:244",
+      "path": "memory/2026-04-16.md",
+      "startLine": 233,
+      "endLine": 244,
+      "source": "memory",
+      "snippet": "- Candidate: User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Mon 2026-04-13 13:04 UTC] 所以這個功能我可以怎麼使用? 日常跟你說很多事情請你紀錄，然後突然想問幾天前我說過XXX，問你細節這樣嗎? - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:21-21 - recalls: 0 - status: staged - Candidate: Assistant: 對，基本就是那個用法。 **日常使用流程：** 1. **Capture** — 你跟我說任何事，我會存進記憶（目前主要寫入 `memory/` 下的 markdown 檔案） 2. **Compile** — `memory-wiki` 會自動把這些素材編譯成結構化 wiki 頁面（provenance、claims、backlinks） 3. **Recall** — 你哪天問「我之前說過 XXX」，我會用 `memory_search` 同時搜 memory + wiki 層，回你想不起來的那段 **但老實說細節上有些限制：* - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:2",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.9265215814113616,
+      "maxScore": 0.46553499996662134,
+      "firstRecalledAt": "2026-04-20T07:00:16.758Z",
+      "lastRecalledAt": "2026-04-20T07:02:18.365Z",
+      "queryHashes": [
+        "39d8a20e5091",
+        "575cdc4915db"
+      ],
+      "recallDays": [
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "0.00",
+        "21-21",
+        "memory-wiki",
+        "memory-search",
+        "candidate",
+        "user",
+        "sender"
+      ]
+    },
+    "memory:memory/2026-04-15.md:128:142": {
+      "key": "memory:memory/2026-04-15.md:128:142",
+      "path": "memory/2026-04-15.md",
+      "startLine": 128,
+      "endLine": 142,
+      "source": "memory",
+      "snippet": "- Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"25\", \"sender_id\": \"8590675031\", \"sender\": \"Eric\", \"timestamp\": \"Tue 2026-04-14 03:37 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Eric (8590675031)\", \"id\": \"8590675031\", \"name\": \"Eric\" } ``` 只有m - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-14.txt:27-27 - recalls: 0 - status: staged - Candidate: Assistant: 你說得對，免費的 40 rpm 限制太嚴，實際使用根本不够用。 NVIDIA API 不只 Minimax M2.7，還有滿多強的模型，但問題是**免費版幾乎都有 rpm 限制**，而且不是每個都適合當日常 driver。像是Llama、Mistral、Gemma 之類的開源大模型 NVIDIA 都有托管，但同樣受 rate limit。 **你的情況：** - Minimax 官網 $10/月 = 1500次/5小時，性價比明確 - NVIDIA 免費的優點是**零成本試用**，但 rpm 上限很快就撞牆 - 如果你",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.2874549716711043,
+      "maxScore": 0.43199766278266905,
+      "firstRecalledAt": "2026-04-20T12:34:12.091Z",
+      "lastRecalledAt": "2026-04-20T12:34:22.951Z",
+      "queryHashes": [
+        "4bbe0fc100f4",
+        "a082fb2f73ba",
+        "9edabccfac6a"
+      ],
+      "recallDays": [
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "0.00",
+        "27-27",
+        "m2.7",
+        "10/月",
+        "1500次/5小時",
+        "candidate"
+      ]
+    },
+    "memory:memory/2026-04-16.md:183:197": {
+      "key": "memory:memory/2026-04-16.md:183:197",
+      "path": "memory/2026-04-16.md",
+      "startLine": 183,
+      "endLine": 197,
+      "source": "memory",
+      "snippet": "- Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"25\", \"sender_id\": \"8590675031\", \"sender\": \"Eric\", \"timestamp\": \"Tue 2026-04-14 03:37 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Eric (8590675031)\", \"id\": \"8590675031\", \"name\": \"Eric\" } ``` 只有m - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-14.txt:27-27 - recalls: 0 - status: staged - Candidate: Assistant: 你說得對，免費的 40 rpm 限制太嚴，實際使用根本不够用。 NVIDIA API 不只 Minimax M2.7，還有滿多強的模型，但問題是**免費版幾乎都有 rpm 限制**，而且不是每個都適合當日常 driver。像是Llama、Mistral、Gemma 之類的開源大模型 NVIDIA 都有托管，但同樣受 rate limit。 **你的情況：** - Minimax 官網 $10/月 = 1500次/5小時，性價比明確 - NVIDIA 免費的優點是**零成本試用**，但 rpm 上限很快就撞牆 - 如果你",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.2874549716711043,
+      "maxScore": 0.43199766278266905,
+      "firstRecalledAt": "2026-04-20T12:34:12.091Z",
+      "lastRecalledAt": "2026-04-20T12:34:22.951Z",
+      "queryHashes": [
+        "4bbe0fc100f4",
+        "a082fb2f73ba",
+        "9edabccfac6a"
+      ],
+      "recallDays": [
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "0.00",
+        "27-27",
+        "m2.7",
+        "10/月",
+        "1500次/5小時",
+        "candidate"
+      ]
+    },
+    "memory:memory/2026-04-14.md:78:93": {
+      "key": "memory:memory/2026-04-14.md:78:93",
+      "path": "memory/2026-04-14.md",
+      "startLine": 78,
+      "endLine": 93,
+      "source": "memory",
+      "snippet": "- Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"21\", \"sender_id\": \"8590675031\", \"sender\": \"Eric\", \"timestamp\": \"Tue 2026-04-14 01:48 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Eric (8590675031)\", \"id\": \"8590675031\", \"name\": \"Eric\" } ``` 提醒我 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-14.txt:5-5 - recalls: 0 - status: staged - Candidate: Assistant: 好，設好了。下午 3 點（台北時間）會發 Telegram 提醒你，順便附上連結。 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-14.txt:6-6 - recalls: 0 - status: staged - Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"23\", \"sender_id\": \"8",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4222107023000717,
+      "maxScore": 0.4222107023000717,
+      "firstRecalledAt": "2026-04-20T12:34:22.951Z",
+      "lastRecalledAt": "2026-04-20T12:34:22.951Z",
+      "queryHashes": [
+        "9edabccfac6a"
+      ],
+      "recallDays": [
+        "2026-04-20"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "0.00",
+        "5-5",
+        "6-6",
+        "candidate",
+        "user",
+        "conversation"
       ]
     }
   }
