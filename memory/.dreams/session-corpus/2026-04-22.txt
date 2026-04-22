@@ -1,0 +1,6 @@
+[dora/sessions/11200fef-5aaf-4a70-97ab-8c46eae02ae9.jsonl#L35] User: Conversation info (untrusted metadata): ```json { "message_id": "53", "sender_id": "8590675031", "sender": "Eric", "timestamp": "Wed 2026-04-22 02:45 UTC" } ``` Sender (untrusted metadata): ```json { "label": "Eric (8590675031)", "id": "8590675031", "name": "Eric" } ``` 晚上8
+[dora/sessions/11200fef-5aaf-4a70-97ab-8c46eae02ae9.jsonl#L38] Assistant: 已設定！今晚 8:00 會提醒你下載字型包。
+[dora/sessions/1e2c0bf4-8e2e-485d-a94b-a3072bbc9474.jsonl#L5] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e
+[dora/sessions/1e2c0bf4-8e2e-485d-a94b-a3072bbc9474.jsonl#L11] Assistant: HEARTBEAT_OK
+[dora/sessions/3445df2e-a4c3-4cca-9003-5e2dce9127ef.jsonl#L5] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e
+[dora/sessions/3445df2e-a4c3-4cca-9003-5e2dce9127ef.jsonl#L11] Assistant: HEARTBEAT_OK
