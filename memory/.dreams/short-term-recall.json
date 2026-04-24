@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-23T02:59:17.248Z",
+  "updatedAt": "2026-04-23T19:10:49.151Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
@@ -4462,45 +4462,6 @@
         "surfaced"
       ]
     },
-    "memory:memory/2026-04-10.md:183:204": {
-      "key": "memory:memory/2026-04-10.md:183:204",
-      "path": "memory/2026-04-10.md",
-      "startLine": 183,
-      "endLine": 204,
-      "source": "memory",
-      "snippet": "- Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:2-2 - recalls: 0 - status: staged - Candidate: User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:3-3 - recalls: 0 - status: staged - Candidate: Assistant: HEARTBEAT_OK - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:4-4 - recalls: 0 - status: staged - Candidate: User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Thu 2026-04-09 08:49 UTC] 明天下午2點提醒我請假出國 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:13-13 - recalls: 0 - status: staged - Candidate: Assistant: 好，幫你設定明天下午2點（台灣時間）的提醒： - confidence: 0.00",
-      "recallCount": 6,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 2.6418721318244933,
-      "maxScore": 0.45204044878482813,
-      "firstRecalledAt": "2026-04-11T12:00:09.518Z",
-      "lastRecalledAt": "2026-04-19T13:49:29.633Z",
-      "queryHashes": [
-        "ca6aeaad041b",
-        "3bd7c516fd88",
-        "3399ef577241",
-        "864e79e5be1f",
-        "39d8a20e5091",
-        "526093897fbd"
-      ],
-      "recallDays": [
-        "2026-04-11",
-        "2026-04-12",
-        "2026-04-19"
-      ],
-      "conceptTags": [
-        "index.md",
-        "second-brain-skill-spec.md",
-        "0.00",
-        "2-2",
-        "heartbeat.md",
-        "heartbeat-ok",
-        "home/node",
-        "3-3"
-      ],
-      "promotedAt": "2026-04-19T13:54:05.295Z"
-    },
     "memory:memory/2026-04-10.md:234:259": {
       "key": "memory:memory/2026-04-10.md:234:259",
       "path": "memory/2026-04-10.md",
@@ -4536,44 +4497,6 @@
         "4/11"
       ],
       "promotedAt": "2026-04-20T03:04:49.634Z"
-    },
-    "memory:memory/2026-04-11.md:228:254": {
-      "key": "memory:memory/2026-04-11.md:228:254",
-      "path": "memory/2026-04-11.md",
-      "startLine": 113,
-      "endLine": 139,
-      "source": "memory",
-      "snippet": "- Candidate: - Candidate: User: A scheduled reminder has been triggered. The reminder content is: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-10.txt:3-3 - recalls: 0 - status: staged <!-- openclaw:dreaming:light:end --> ## REM Sleep <!-- openclaw:dreaming:rem:start --> ### Reflections - Theme: `heartbeat-ok` kept surfacing across 58 memories. - confidence: 0.84 - evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08 - confidence: 0.43 - evidence: memory/2026-04-11.md:228-254 - recalls: 3 - status: staged - Candidate: - recalls: 0 - status: staged - Candidate: User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1 - recalls: 0 - status: staged - Candidate: Assistant: HEARTBEAT_OK - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2 - recalls: 0 - status: staged - Candidate: User: [cron:f9217fdb-5810-42cc-8506-989be46347a3 看履歷報告] 🔔 Eric，8點了！記得去看 reports/job-s - confidence: 0.43 - evidence: memory/2026-04-10.md:166-187 - recalls: 2 - status: staged - Candidate: - evidence: memory/.dreams/session-corpus/2026-04-09.txt:24-24 - recalls: 0 - status: staged - Candidate: User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Thu 2026-04-09 06:30 UTC] 星期六下午6點提醒我繳牌照稅 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:25-25 - recalls: 0 - status: staged - Candidate: Assistant: ✅ 已設定囉！2026 年 4 月 11 日（星期六）下午 6 點會提醒你繳牌照稅。 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:26-26 - recalls: 0 - status: staged <!-- openclaw:dreaming:light:end --> ## REM Sleep <!-- openclaw:dreaming:rem:start --> ### Reflections - Theme: `heartbeat-ok` - confidence: 0.42 - evidence: memory/2026-04-10.md:255-285 - recalls: 1 - status: staged - Candidate: User: [cron:14ba3b59-0f3c-4e1a-9495-0c810c3727ac 牌照稅繳費提醒] ⏰ 提醒：該繳牌照稅了！ Current time: Saturday, April 11th, 2026 - 10:00 AM (UTC) / 2026-04-11 10:00 UTC Return your summary as plain text; it will be delivered automatically. If the task explicitly calls for messaging a specific ext - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-11.txt:11-11 - recalls: 0 - status: staged - Candidate: Assistant: 這是 Eric 前天在 Telegram 設定的提醒（2026-04-09 18:30 UTC 說「星期六下午6點提醒我繳牌照稅」）。需要把提醒發送到 Telegram。 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-11.txt:12-12 - recalls: 0 - status: staged - Candidate: Assistant: 提醒任務已觸發（10:00 UTC = 下午 6 點台灣時間）。這是一次性提醒任務（`deleteAfterRun: true`）。 我來找一下是否有更多關於這個牌照稅的資訊： - confidence: 0.00",
-      "recallCount": 5,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 2.175343346595764,
-      "maxScore": 0.45952906310558317,
-      "firstRecalledAt": "2026-04-11T12:00:09.518Z",
-      "lastRecalledAt": "2026-04-19T13:49:13.873Z",
-      "queryHashes": [
-        "ca6aeaad041b",
-        "3bd7c516fd88",
-        "3399ef577241",
-        "864e79e5be1f",
-        "39d8a20e5091"
-      ],
-      "recallDays": [
-        "2026-04-11",
-        "2026-04-12",
-        "2026-04-19"
-      ],
-      "conceptTags": [
-        "index.md",
-        "second-brain-skill-spec.md",
-        "0.00",
-        "3-3",
-        "heartbeat-ok",
-        "0.84",
-        "1-1",
-        "dreams/session-corpus/2026-04-08"
-      ],
-      "promotedAt": "2026-04-19T13:54:05.295Z"
     },
     "memory:memory/2026-04-10.md:166:187": {
       "key": "memory:memory/2026-04-10.md:166:187",
@@ -13151,12 +13074,12 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `reflections` kept surfacing across 184 memories.; confidence: 0.86; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-17T03:04:29.011Z",
-      "lastRecalledAt": "2026-04-23T02:58:37.334Z",
+      "lastRecalledAt": "2026-04-23T19:10:49.151Z",
       "queryHashes": [
         "b628913e3912"
       ],
@@ -13167,7 +13090,8 @@
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "0.86",
@@ -13188,12 +13112,12 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `theme` kept surfacing across 184 memories.; confidence: 0.86; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-17T03:04:29.011Z",
-      "lastRecalledAt": "2026-04-23T02:58:37.334Z",
+      "lastRecalledAt": "2026-04-23T19:10:49.151Z",
       "queryHashes": [
         "b628913e3912"
       ],
@@ -13204,7 +13128,8 @@
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "0.86",
@@ -13225,12 +13150,12 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 169 memories.; confidence: 0.79; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-17T03:04:29.011Z",
-      "lastRecalledAt": "2026-04-23T02:58:37.334Z",
+      "lastRecalledAt": "2026-04-23T19:10:49.151Z",
       "queryHashes": [
         "b628913e3912"
       ],
@@ -13241,7 +13166,8 @@
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "heartbeat-ok",
@@ -13262,12 +13188,12 @@
       "source": "memory",
       "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-17T03:04:29.011Z",
-      "lastRecalledAt": "2026-04-23T02:58:37.334Z",
+      "lastRecalledAt": "2026-04-23T19:10:49.151Z",
       "queryHashes": [
         "b628913e3912"
       ],
@@ -13278,7 +13204,8 @@
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "index.md",
@@ -13881,12 +13808,12 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 187 memories.; confidence: 0.83; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-18T03:05:31.940Z",
-      "lastRecalledAt": "2026-04-23T02:58:37.334Z",
+      "lastRecalledAt": "2026-04-23T19:10:49.151Z",
       "queryHashes": [
         "500c0eda9949"
       ],
@@ -13897,7 +13824,8 @@
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "heartbeat-ok",
@@ -13918,12 +13846,12 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `reflections` kept surfacing across 187 memories.; confidence: 0.83; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-18T03:05:31.940Z",
-      "lastRecalledAt": "2026-04-23T02:58:37.334Z",
+      "lastRecalledAt": "2026-04-23T19:10:49.151Z",
       "queryHashes": [
         "500c0eda9949"
       ],
@@ -13934,7 +13862,8 @@
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "0.83",
@@ -13955,12 +13884,12 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `theme` kept surfacing across 187 memories.; confidence: 0.83; evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-18T03:05:31.940Z",
-      "lastRecalledAt": "2026-04-23T02:58:37.334Z",
+      "lastRecalledAt": "2026-04-23T19:10:49.151Z",
       "queryHashes": [
         "500c0eda9949"
       ],
@@ -13971,7 +13900,8 @@
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "0.83",
@@ -13992,12 +13922,12 @@
       "source": "memory",
       "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-18T03:05:31.940Z",
-      "lastRecalledAt": "2026-04-23T02:58:37.334Z",
+      "lastRecalledAt": "2026-04-23T19:10:49.151Z",
       "queryHashes": [
         "500c0eda9949"
       ],
@@ -14008,7 +13938,8 @@
         "2026-04-20",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "index.md",
@@ -14481,70 +14412,6 @@
         "assistant"
       ]
     },
-    "memory:memory/2026-04-10.md:223:242": {
-      "key": "memory:memory/2026-04-10.md:223:242",
-      "path": "memory/2026-04-10.md",
-      "startLine": 223,
-      "endLine": 242,
-      "source": "memory",
-      "snippet": "- Candidate: User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Thu 2026-04-09 09:01 UTC] 沒關係我就了解一下而已。 那我叫你提醒我明天XXX的時候，你是用cron設定提醒嗎? - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:18-18 - recalls: 0 - status: staged - Candidate: Assistant: 對，剛才幫你設提醒就是用 `cron` tool。 但 cron 不只是提醒功能，它是一個**通用排程系統**： - **一次性**（如明天2點提醒）→ `kind: \"at\"` - **循環**（每天早上8點、每週一）→ `kind: \"cron\"` - **間隔**（每30分鐘檢查一次）→ `kind: \"every\"` 我用它驅動「提醒」只是常見用法之一，核心能力是定時觸發任何任務或事件。 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:19-19 - recalls: 0 - status: staged - Candidate: User: Sender (untrusted metad",
-      "recallCount": 2,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.9139312982559203,
-      "maxScore": 0.45826320052146907,
-      "firstRecalledAt": "2026-04-19T13:49:13.873Z",
-      "lastRecalledAt": "2026-04-19T13:49:29.633Z",
-      "queryHashes": [
-        "39d8a20e5091",
-        "526093897fbd"
-      ],
-      "recallDays": [
-        "2026-04-19"
-      ],
-      "conceptTags": [
-        "openclaw-control-ui",
-        "0.00",
-        "18-18",
-        "19-19",
-        "candidate",
-        "user",
-        "sender",
-        "untrusted"
-      ]
-    },
-    "memory:memory/2026-04-10.md:213:225": {
-      "key": "memory:memory/2026-04-10.md:213:225",
-      "path": "memory/2026-04-10.md",
-      "startLine": 213,
-      "endLine": 225,
-      "source": "memory",
-      "snippet": "- Candidate: User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Thu 2026-04-09 08:53 UTC] 你是怎麼記住我提供給妳的資訊的? 例如我跟你說記住某件事，幾個月後問你說我之前說過的XXX那個細節是什麼，你要怎麼樣準確無誤地給我答案? - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:16-16 - recalls: 0 - status: staged - Candidate: Assistant: 這是好問題，直接說明我的運作方式： --- **我的「記憶」架構** 我沒有真正的長期記憶。每次對話結束後，這個 session 內的內容我會忘記。 但我的設計是**外部檔案系統作為記憶體**： | 層次 | 內容 | 持久性 | |------|------|--------| | **記憶檔案** | `memory/INBOX.md`、`memory/PROJECTS.md`、`memory/PEOPLE.md` 等 | 永遠存在磁碟 | | **工作區** | `/home/node/.openclaw/dora-agent - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2",
-      "recallCount": 2,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.904250544309616,
-      "maxScore": 0.4553484976291656,
-      "firstRecalledAt": "2026-04-19T13:49:13.873Z",
-      "lastRecalledAt": "2026-04-19T13:49:29.633Z",
-      "queryHashes": [
-        "39d8a20e5091",
-        "526093897fbd"
-      ],
-      "recallDays": [
-        "2026-04-19"
-      ],
-      "conceptTags": [
-        "openclaw-control-ui",
-        "0.00",
-        "16-16",
-        "memory/inbox.md",
-        "memory/projects.md",
-        "memory/people.md",
-        "home/node",
-        "openclaw/dora-agent"
-      ]
-    },
     "memory:memory/2026-04-18.md:213:216": {
       "key": "memory:memory/2026-04-18.md:213:216",
       "path": "memory/2026-04-18.md",
@@ -14553,12 +14420,12 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 164 memories.; confidence: 0.86; evidence: memory/2026-04-10.md:273-276, memory/2026-04-11.md:273-276, memory/.dreams/session-corpus/2026-04-11.txt:1-1; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-19T13:54:05.295Z",
-      "lastRecalledAt": "2026-04-23T02:58:37.334Z",
+      "lastRecalledAt": "2026-04-23T19:10:49.151Z",
       "queryHashes": [
         "77ca9720ec15"
       ],
@@ -14567,7 +14434,8 @@
         "2026-04-19",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "heartbeat-ok",
@@ -14588,12 +14456,12 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `reflections` kept surfacing across 158 memories.; confidence: 0.83; evidence: memory/2026-04-10.md:273-276, memory/2026-04-10.md:277-280, memory/2026-04-11.md:273-276; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-19T13:54:05.295Z",
-      "lastRecalledAt": "2026-04-23T02:58:37.334Z",
+      "lastRecalledAt": "2026-04-23T19:10:49.151Z",
       "queryHashes": [
         "77ca9720ec15"
       ],
@@ -14602,7 +14470,8 @@
         "2026-04-19",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "0.83",
@@ -14623,12 +14492,12 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `theme` kept surfacing across 158 memories.; confidence: 0.83; evidence: memory/2026-04-10.md:273-276, memory/2026-04-10.md:277-280, memory/2026-04-11.md:273-276; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-19T13:54:05.295Z",
-      "lastRecalledAt": "2026-04-23T02:58:37.334Z",
+      "lastRecalledAt": "2026-04-23T19:10:49.151Z",
       "queryHashes": [
         "77ca9720ec15"
       ],
@@ -14637,7 +14506,8 @@
         "2026-04-19",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "0.83",
@@ -14658,12 +14528,12 @@
       "source": "memory",
       "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-19T13:54:05.295Z",
-      "lastRecalledAt": "2026-04-23T02:58:37.334Z",
+      "lastRecalledAt": "2026-04-23T19:10:49.151Z",
       "queryHashes": [
         "77ca9720ec15"
       ],
@@ -14672,7 +14542,8 @@
         "2026-04-19",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "index.md",
@@ -14989,130 +14860,6 @@
         "現在"
       ]
     },
-    "memory:memory/2026-04-10.md:198:217": {
-      "key": "memory:memory/2026-04-10.md:198:217",
-      "path": "memory/2026-04-10.md",
-      "startLine": 198,
-      "endLine": 217,
-      "source": "memory",
-      "snippet": "- Candidate: User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Thu 2026-04-09 08:49 UTC] 明天下午2點提醒我請假出國 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:13-13 - recalls: 0 - status: staged - Candidate: Assistant: 好，幫你設定明天下午2點（台灣時間）的提醒： - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:14-14 - recalls: 0 - status: staged - Candidate: Assistant: ✅ 已設定，明天（4/10）下午2點會提醒你請假出國。 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:15-15 - recalls: 0 - status: staged - Candidate: User: Sender (untrusted metadata): ```json { \"label\": \"openclaw",
-      "recallCount": 1,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.4563797086477279,
-      "maxScore": 0.4563797086477279,
-      "firstRecalledAt": "2026-04-19T15:05:05.124Z",
-      "lastRecalledAt": "2026-04-19T15:05:05.124Z",
-      "queryHashes": [
-        "a98d3abb23d9"
-      ],
-      "recallDays": [
-        "2026-04-19"
-      ],
-      "conceptTags": [
-        "openclaw-control-ui",
-        "0.00",
-        "13-13",
-        "14-14",
-        "4/10",
-        "15-15",
-        "candidate",
-        "user"
-      ]
-    },
-    "memory:memory/2026-04-14.md:174:175": {
-      "key": "memory:memory/2026-04-14.md:174:175",
-      "path": "memory/2026-04-14.md",
-      "startLine": 174,
-      "endLine": 175,
-      "source": "memory",
-      "snippet": "- - Candidate: User: A scheduled reminder has been triggered. The reminder content is: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-10.txt:3-3 - recalls: 0 - status: staged <!-- openclaw:dreaming:light:end --> ## REM Sleep <!-- openclaw:dreaming:rem:start --> ### Reflections - Theme: `heartbeat-ok` kept surfacing across 58 memories. - confidence: 0.84 - evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08 [confidenc",
-      "recallCount": 1,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.4562443166971206,
-      "maxScore": 0.4562443166971206,
-      "firstRecalledAt": "2026-04-19T15:05:05.124Z",
-      "lastRecalledAt": "2026-04-19T15:05:05.124Z",
-      "queryHashes": [
-        "a98d3abb23d9"
-      ],
-      "recallDays": [
-        "2026-04-19"
-      ],
-      "conceptTags": [
-        "index.md",
-        "second-brain-skill-spec.md",
-        "0.00",
-        "3-3",
-        "heartbeat-ok",
-        "0.84",
-        "1-1",
-        "dreams/session-corpus/2026-04-08"
-      ]
-    },
-    "memory:memory/2026-04-15.md:248:249": {
-      "key": "memory:memory/2026-04-15.md:248:249",
-      "path": "memory/2026-04-15.md",
-      "startLine": 248,
-      "endLine": 249,
-      "source": "memory",
-      "snippet": "- - Candidate: User: A scheduled reminder has been triggered. The reminder content is: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-10.txt:3-3 - recalls: 0 - status: staged <!-- openclaw:dreaming:light:end --> ## REM Sleep <!-- openclaw:dreaming:rem:start --> ### Reflections - Theme: `heartbeat-ok` kept surfacing across 58 memories. - confidence: 0.84 - evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08 [confidenc",
-      "recallCount": 1,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.4562443166971206,
-      "maxScore": 0.4562443166971206,
-      "firstRecalledAt": "2026-04-19T15:05:05.124Z",
-      "lastRecalledAt": "2026-04-19T15:05:05.124Z",
-      "queryHashes": [
-        "a98d3abb23d9"
-      ],
-      "recallDays": [
-        "2026-04-19"
-      ],
-      "conceptTags": [
-        "index.md",
-        "second-brain-skill-spec.md",
-        "0.00",
-        "3-3",
-        "heartbeat-ok",
-        "0.84",
-        "1-1",
-        "dreams/session-corpus/2026-04-08"
-      ]
-    },
-    "memory:memory/2026-04-15.md:223:246": {
-      "key": "memory:memory/2026-04-15.md:223:246",
-      "path": "memory/2026-04-15.md",
-      "startLine": 223,
-      "endLine": 246,
-      "source": "memory",
-      "snippet": "- Candidate: User: A scheduled reminder has been triggered. The reminder content is: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:3-3 - recalls: 0 - status: staged <!-- openclaw:dreaming:light:end --> ## REM Sleep <!-- openclaw:dreaming:rem:start --> ### Reflections - Theme: `reflections` kept surfacing across 184 memories. - confidence: 0.91 - evidence: memory/2026-04-10.md:118-121, memory/2026-04-10.md:122-125, memory/2026-04-10.md:126-129",
-      "recallCount": 1,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.456063050031662,
-      "maxScore": 0.456063050031662,
-      "firstRecalledAt": "2026-04-19T15:05:05.124Z",
-      "lastRecalledAt": "2026-04-19T15:05:05.124Z",
-      "queryHashes": [
-        "a98d3abb23d9"
-      ],
-      "recallDays": [
-        "2026-04-19"
-      ],
-      "conceptTags": [
-        "index.md",
-        "second-brain-skill-spec.md",
-        "0.00",
-        "3-3",
-        "0.91",
-        "memory/2026-04-10.md",
-        "118-121",
-        "122-125"
-      ]
-    },
     "memory:memory/2026-04-19.md:243:246": {
       "key": "memory:memory/2026-04-19.md:243:246",
       "path": "memory/2026-04-19.md",
@@ -15121,12 +14868,12 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 136 memories.; confidence: 0.90; evidence: memory/2026-04-10.md:273-276, memory/2026-04-10.md:183-204, memory/2026-04-11.md:228-254; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-20T03:04:49.634Z",
-      "lastRecalledAt": "2026-04-23T02:58:37.334Z",
+      "lastRecalledAt": "2026-04-23T19:10:49.151Z",
       "queryHashes": [
         "21faa0df9302"
       ],
@@ -15134,7 +14881,8 @@
         "2026-04-19",
         "2026-04-20",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "heartbeat-ok",
@@ -15155,12 +14903,12 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `assistant` kept surfacing across 115 memories.; confidence: 0.76; evidence: memory/2026-04-10.md:277-280, memory/2026-04-11.md:1597-1599, memory/2026-04-12.md:202-204; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-20T03:04:49.634Z",
-      "lastRecalledAt": "2026-04-23T02:58:37.334Z",
+      "lastRecalledAt": "2026-04-23T19:10:49.151Z",
       "queryHashes": [
         "21faa0df9302"
       ],
@@ -15168,7 +14916,8 @@
         "2026-04-19",
         "2026-04-20",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "0.76",
@@ -15189,12 +14938,12 @@
       "source": "memory",
       "snippet": "Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-20T03:04:49.634Z",
-      "lastRecalledAt": "2026-04-23T02:58:37.334Z",
+      "lastRecalledAt": "2026-04-23T19:10:49.151Z",
       "queryHashes": [
         "21faa0df9302"
       ],
@@ -15202,7 +14951,8 @@
         "2026-04-19",
         "2026-04-20",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "index.md",
@@ -15702,235 +15452,6 @@
         "assistant"
       ]
     },
-    "memory:memory/2026-04-16.md:243:264": {
-      "key": "memory:memory/2026-04-16.md:243:264",
-      "path": "memory/2026-04-16.md",
-      "startLine": 243,
-      "endLine": 264,
-      "source": "memory",
-      "snippet": "- Candidate: User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Mon 2026-04-13 15:07 UTC] 幫我把這個網站記起來，這網站可以把各種複雜的物理化學之類的知識用動畫的方式演示出來，而且還免費，非常好用: https://phet.colorado.edu/zh_TW/ - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:23-23 - recalls: 0 - status: staged - Candidate: Assistant: 已存。記了： - **網站**：PhET Interactive Simulations（Colorado Boulder 大學開發） - **用途**：用動畫演示物理、化學、生物、地球科學等複雜概念 - **特點**：免費、互動、繁中版 - **標籤**：#物理 #化學 #教學 #動畫 #免費資源 之後問「我之前存過什麼教學網站」或「物理化學動畫」就能找到。 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:24-24 - recalls: 0 - status: staged <!-- openclaw:dr",
-      "recallCount": 2,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.9370850950479507,
-      "maxScore": 0.4695457726716995,
-      "firstRecalledAt": "2026-04-20T07:00:16.758Z",
-      "lastRecalledAt": "2026-04-20T07:02:18.365Z",
-      "queryHashes": [
-        "39d8a20e5091",
-        "575cdc4915db"
-      ],
-      "recallDays": [
-        "2026-04-20"
-      ],
-      "conceptTags": [
-        "openclaw-control-ui",
-        "phet.colorado.edu/zh-tw",
-        "0.00",
-        "23-23",
-        "24-24",
-        "candidate",
-        "user",
-        "sender"
-      ]
-    },
-    "memory:memory/2026-04-14.md:43:54": {
-      "key": "memory:memory/2026-04-14.md:43:54",
-      "path": "memory/2026-04-14.md",
-      "startLine": 43,
-      "endLine": 54,
-      "source": "memory",
-      "snippet": "- Candidate: User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Mon 2026-04-13 13:04 UTC] 所以這個功能我可以怎麼使用? 日常跟你說很多事情請你紀錄，然後突然想問幾天前我說過XXX，問你細節這樣嗎? - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:21-21 - recalls: 0 - status: staged - Candidate: Assistant: 對，基本就是那個用法。 **日常使用流程：** 1. **Capture** — 你跟我說任何事，我會存進記憶（目前主要寫入 `memory/` 下的 markdown 檔案） 2. **Compile** — `memory-wiki` 會自動把這些素材編譯成結構化 wiki 頁面（provenance、claims、backlinks） 3. **Recall** — 你哪天問「我之前說過 XXX」，我會用 `memory_search` 同時搜 memory + wiki 層，回你想不起來的那段 **但老實說細節上有些限制：* - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:2",
-      "recallCount": 2,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.9265215814113616,
-      "maxScore": 0.46553499996662134,
-      "firstRecalledAt": "2026-04-20T07:00:16.758Z",
-      "lastRecalledAt": "2026-04-20T07:02:18.365Z",
-      "queryHashes": [
-        "39d8a20e5091",
-        "575cdc4915db"
-      ],
-      "recallDays": [
-        "2026-04-20"
-      ],
-      "conceptTags": [
-        "openclaw-control-ui",
-        "0.00",
-        "21-21",
-        "memory-wiki",
-        "memory-search",
-        "candidate",
-        "user",
-        "sender"
-      ]
-    },
-    "memory:memory/2026-04-15.md:178:189": {
-      "key": "memory:memory/2026-04-15.md:178:189",
-      "path": "memory/2026-04-15.md",
-      "startLine": 178,
-      "endLine": 189,
-      "source": "memory",
-      "snippet": "- Candidate: User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Mon 2026-04-13 13:04 UTC] 所以這個功能我可以怎麼使用? 日常跟你說很多事情請你紀錄，然後突然想問幾天前我說過XXX，問你細節這樣嗎? - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:21-21 - recalls: 0 - status: staged - Candidate: Assistant: 對，基本就是那個用法。 **日常使用流程：** 1. **Capture** — 你跟我說任何事，我會存進記憶（目前主要寫入 `memory/` 下的 markdown 檔案） 2. **Compile** — `memory-wiki` 會自動把這些素材編譯成結構化 wiki 頁面（provenance、claims、backlinks） 3. **Recall** — 你哪天問「我之前說過 XXX」，我會用 `memory_search` 同時搜 memory + wiki 層，回你想不起來的那段 **但老實說細節上有些限制：* - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:2",
-      "recallCount": 2,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.9265215814113616,
-      "maxScore": 0.46553499996662134,
-      "firstRecalledAt": "2026-04-20T07:00:16.758Z",
-      "lastRecalledAt": "2026-04-20T07:02:18.365Z",
-      "queryHashes": [
-        "39d8a20e5091",
-        "575cdc4915db"
-      ],
-      "recallDays": [
-        "2026-04-20"
-      ],
-      "conceptTags": [
-        "openclaw-control-ui",
-        "0.00",
-        "21-21",
-        "memory-wiki",
-        "memory-search",
-        "candidate",
-        "user",
-        "sender"
-      ]
-    },
-    "memory:memory/2026-04-16.md:233:244": {
-      "key": "memory:memory/2026-04-16.md:233:244",
-      "path": "memory/2026-04-16.md",
-      "startLine": 233,
-      "endLine": 244,
-      "source": "memory",
-      "snippet": "- Candidate: User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Mon 2026-04-13 13:04 UTC] 所以這個功能我可以怎麼使用? 日常跟你說很多事情請你紀錄，然後突然想問幾天前我說過XXX，問你細節這樣嗎? - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:21-21 - recalls: 0 - status: staged - Candidate: Assistant: 對，基本就是那個用法。 **日常使用流程：** 1. **Capture** — 你跟我說任何事，我會存進記憶（目前主要寫入 `memory/` 下的 markdown 檔案） 2. **Compile** — `memory-wiki` 會自動把這些素材編譯成結構化 wiki 頁面（provenance、claims、backlinks） 3. **Recall** — 你哪天問「我之前說過 XXX」，我會用 `memory_search` 同時搜 memory + wiki 層，回你想不起來的那段 **但老實說細節上有些限制：* - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:2",
-      "recallCount": 2,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.9265215814113616,
-      "maxScore": 0.46553499996662134,
-      "firstRecalledAt": "2026-04-20T07:00:16.758Z",
-      "lastRecalledAt": "2026-04-20T07:02:18.365Z",
-      "queryHashes": [
-        "39d8a20e5091",
-        "575cdc4915db"
-      ],
-      "recallDays": [
-        "2026-04-20"
-      ],
-      "conceptTags": [
-        "openclaw-control-ui",
-        "0.00",
-        "21-21",
-        "memory-wiki",
-        "memory-search",
-        "candidate",
-        "user",
-        "sender"
-      ]
-    },
-    "memory:memory/2026-04-15.md:128:142": {
-      "key": "memory:memory/2026-04-15.md:128:142",
-      "path": "memory/2026-04-15.md",
-      "startLine": 128,
-      "endLine": 142,
-      "source": "memory",
-      "snippet": "- Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"25\", \"sender_id\": \"8590675031\", \"sender\": \"Eric\", \"timestamp\": \"Tue 2026-04-14 03:37 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Eric (8590675031)\", \"id\": \"8590675031\", \"name\": \"Eric\" } ``` 只有m - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-14.txt:27-27 - recalls: 0 - status: staged - Candidate: Assistant: 你說得對，免費的 40 rpm 限制太嚴，實際使用根本不够用。 NVIDIA API 不只 Minimax M2.7，還有滿多強的模型，但問題是**免費版幾乎都有 rpm 限制**，而且不是每個都適合當日常 driver。像是Llama、Mistral、Gemma 之類的開源大模型 NVIDIA 都有托管，但同樣受 rate limit。 **你的情況：** - Minimax 官網 $10/月 = 1500次/5小時，性價比明確 - NVIDIA 免費的優點是**零成本試用**，但 rpm 上限很快就撞牆 - 如果你",
-      "recallCount": 4,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 1.6816935718059538,
-      "maxScore": 0.43199766278266905,
-      "firstRecalledAt": "2026-04-20T12:34:12.091Z",
-      "lastRecalledAt": "2026-04-22T12:00:18.124Z",
-      "queryHashes": [
-        "4bbe0fc100f4",
-        "a082fb2f73ba",
-        "9edabccfac6a",
-        "232c5f96f5f6"
-      ],
-      "recallDays": [
-        "2026-04-20",
-        "2026-04-22"
-      ],
-      "conceptTags": [
-        "message-id",
-        "sender-id",
-        "0.00",
-        "27-27",
-        "m2.7",
-        "10/月",
-        "1500次/5小時",
-        "candidate"
-      ]
-    },
-    "memory:memory/2026-04-16.md:183:197": {
-      "key": "memory:memory/2026-04-16.md:183:197",
-      "path": "memory/2026-04-16.md",
-      "startLine": 183,
-      "endLine": 197,
-      "source": "memory",
-      "snippet": "- Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"25\", \"sender_id\": \"8590675031\", \"sender\": \"Eric\", \"timestamp\": \"Tue 2026-04-14 03:37 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Eric (8590675031)\", \"id\": \"8590675031\", \"name\": \"Eric\" } ``` 只有m - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-14.txt:27-27 - recalls: 0 - status: staged - Candidate: Assistant: 你說得對，免費的 40 rpm 限制太嚴，實際使用根本不够用。 NVIDIA API 不只 Minimax M2.7，還有滿多強的模型，但問題是**免費版幾乎都有 rpm 限制**，而且不是每個都適合當日常 driver。像是Llama、Mistral、Gemma 之類的開源大模型 NVIDIA 都有托管，但同樣受 rate limit。 **你的情況：** - Minimax 官網 $10/月 = 1500次/5小時，性價比明確 - NVIDIA 免費的優點是**零成本試用**，但 rpm 上限很快就撞牆 - 如果你",
-      "recallCount": 4,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 1.6816935718059538,
-      "maxScore": 0.43199766278266905,
-      "firstRecalledAt": "2026-04-20T12:34:12.091Z",
-      "lastRecalledAt": "2026-04-22T12:00:18.124Z",
-      "queryHashes": [
-        "4bbe0fc100f4",
-        "a082fb2f73ba",
-        "9edabccfac6a",
-        "232c5f96f5f6"
-      ],
-      "recallDays": [
-        "2026-04-20",
-        "2026-04-22"
-      ],
-      "conceptTags": [
-        "message-id",
-        "sender-id",
-        "0.00",
-        "27-27",
-        "m2.7",
-        "10/月",
-        "1500次/5小時",
-        "candidate"
-      ]
-    },
-    "memory:memory/2026-04-14.md:78:93": {
-      "key": "memory:memory/2026-04-14.md:78:93",
-      "path": "memory/2026-04-14.md",
-      "startLine": 78,
-      "endLine": 93,
-      "source": "memory",
-      "snippet": "- Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"21\", \"sender_id\": \"8590675031\", \"sender\": \"Eric\", \"timestamp\": \"Tue 2026-04-14 01:48 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Eric (8590675031)\", \"id\": \"8590675031\", \"name\": \"Eric\" } ``` 提醒我 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-14.txt:5-5 - recalls: 0 - status: staged - Candidate: Assistant: 好，設好了。下午 3 點（台北時間）會發 Telegram 提醒你，順便附上連結。 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-14.txt:6-6 - recalls: 0 - status: staged - Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"23\", \"sender_id\": \"8",
-      "recallCount": 1,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.4222107023000717,
-      "maxScore": 0.4222107023000717,
-      "firstRecalledAt": "2026-04-20T12:34:22.951Z",
-      "lastRecalledAt": "2026-04-20T12:34:22.951Z",
-      "queryHashes": [
-        "9edabccfac6a"
-      ],
-      "recallDays": [
-        "2026-04-20"
-      ],
-      "conceptTags": [
-        "message-id",
-        "sender-id",
-        "0.00",
-        "5-5",
-        "6-6",
-        "candidate",
-        "user",
-        "conversation"
-      ]
-    },
     "memory:memory/2026-04-20.md:303:306": {
       "key": "memory:memory/2026-04-20.md:303:306",
       "path": "memory/2026-04-20.md",
@@ -15939,19 +15460,20 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 111 memories.; confidence: 0.98; evidence: memory/2026-04-10.md:273-276, memory/2026-04-10.md:183-204, memory/2026-04-11.md:113-139; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-21T03:06:10.808Z",
-      "lastRecalledAt": "2026-04-23T02:58:37.334Z",
+      "lastRecalledAt": "2026-04-23T19:10:49.151Z",
       "queryHashes": [
         "511fd8111b88"
       ],
       "recallDays": [
         "2026-04-20",
         "2026-04-21",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "heartbeat-ok",
@@ -15972,19 +15494,20 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `assistant` kept surfacing across 94 memories.; confidence: 0.83; evidence: memory/2026-04-10.md:277-280, memory/2026-04-11.md:1597-1599, memory/2026-04-12.md:1398-1400; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-21T03:06:10.808Z",
-      "lastRecalledAt": "2026-04-23T02:58:37.334Z",
+      "lastRecalledAt": "2026-04-23T19:10:49.151Z",
       "queryHashes": [
         "511fd8111b88"
       ],
       "recallDays": [
         "2026-04-20",
         "2026-04-21",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "0.83",
@@ -16005,19 +15528,20 @@
       "source": "memory",
       "snippet": "Possible Lasting Truths: - evidence: memory/.dreams/session-corpus/2026-04-09.txt:24-24 - recalls: 0 - status: staged - Candidate: User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Thu 2026-04-09 06:30 UTC] 星期六下午6點提醒我繳",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-21T03:06:10.808Z",
-      "lastRecalledAt": "2026-04-23T02:58:37.334Z",
+      "lastRecalledAt": "2026-04-23T19:10:49.151Z",
       "queryHashes": [
         "511fd8111b88"
       ],
       "recallDays": [
         "2026-04-20",
         "2026-04-21",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ],
       "conceptTags": [
         "24-24",
@@ -17392,161 +16916,6 @@
         "assistant"
       ]
     },
-    "memory:memory/2026-04-15.md:98:117": {
-      "key": "memory:memory/2026-04-15.md:98:117",
-      "path": "memory/2026-04-15.md",
-      "startLine": 98,
-      "endLine": 117,
-      "source": "memory",
-      "snippet": "- Candidate: User: [cron:568ed664-253b-4869-88de-e0b56723705f 研究 NVIDIA API + Minimax M2.7 文章] 提醒 Eric：下午3點了，該研究 NVIDIA API + Minimax M2.7 了。連結：https://share.google/PaLgXVVOUX9gkqfgA Current time: Tuesday, April 14th, 2026 - 7:00 AM (UTC) / 2026-04-14 07:00 UTC Return your summary as plain te - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-14.txt:9-9 - recalls: 0 - status: staged - Candidate: Assistant: 無法讀取連結內容，先幫你查一下 NVIDIA API + Minimax M2.7 的相關資訊。 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-14.txt:10-10 - recalls: 0 - status: staged - Candidate: Assistant: 找到相關文章了，讓我讀取 NVIDIA 部落格上關於 MiniMax M2.7 的詳細內容。 - confidence: 0.00 -",
-      "recallCount": 1,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.38696029186248776,
-      "maxScore": 0.38696029186248776,
-      "firstRecalledAt": "2026-04-22T12:00:18.124Z",
-      "lastRecalledAt": "2026-04-22T12:00:18.124Z",
-      "queryHashes": [
-        "232c5f96f5f6"
-      ],
-      "recallDays": [
-        "2026-04-22"
-      ],
-      "conceptTags": [
-        "m2.7",
-        "share.google/palgxvvoux9gkqfga",
-        "0.00",
-        "9-9",
-        "10-10",
-        "candidate",
-        "user",
-        "cron"
-      ]
-    },
-    "memory:memory/2026-04-16.md:153:172": {
-      "key": "memory:memory/2026-04-16.md:153:172",
-      "path": "memory/2026-04-16.md",
-      "startLine": 153,
-      "endLine": 172,
-      "source": "memory",
-      "snippet": "- Candidate: User: [cron:568ed664-253b-4869-88de-e0b56723705f 研究 NVIDIA API + Minimax M2.7 文章] 提醒 Eric：下午3點了，該研究 NVIDIA API + Minimax M2.7 了。連結：https://share.google/PaLgXVVOUX9gkqfgA Current time: Tuesday, April 14th, 2026 - 7:00 AM (UTC) / 2026-04-14 07:00 UTC Return your summary as plain te - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-14.txt:9-9 - recalls: 0 - status: staged - Candidate: Assistant: 無法讀取連結內容，先幫你查一下 NVIDIA API + Minimax M2.7 的相關資訊。 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-14.txt:10-10 - recalls: 0 - status: staged - Candidate: Assistant: 找到相關文章了，讓我讀取 NVIDIA 部落格上關於 MiniMax M2.7 的詳細內容。 - confidence: 0.00 -",
-      "recallCount": 1,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.38696029186248776,
-      "maxScore": 0.38696029186248776,
-      "firstRecalledAt": "2026-04-22T12:00:18.124Z",
-      "lastRecalledAt": "2026-04-22T12:00:18.124Z",
-      "queryHashes": [
-        "232c5f96f5f6"
-      ],
-      "recallDays": [
-        "2026-04-22"
-      ],
-      "conceptTags": [
-        "m2.7",
-        "share.google/palgxvvoux9gkqfga",
-        "0.00",
-        "9-9",
-        "10-10",
-        "candidate",
-        "user",
-        "cron"
-      ]
-    },
-    "memory:memory/2026-04-14.md:93:112": {
-      "key": "memory:memory/2026-04-14.md:93:112",
-      "path": "memory/2026-04-14.md",
-      "startLine": 93,
-      "endLine": 112,
-      "source": "memory",
-      "snippet": "- Candidate: Assistant: 重點整理： ## NVIDIA API + Minimax M2.7 for OpenClaw **這篇在說什麼：** 稀宇科技的 Minimax M2.7（230B 參數）開源了，但一般電腦跑不動。NVIDIA API 現在可以**完全免費**呼叫這個模型，無需填信用卡，40 rpm 限制。 **申請步驟：** 1. 去 [build.nvidia.com/minimaxai/minimax-m2.7](https://build.nvidia.com/minimaxai/minimax-m2.7) 免費註冊帳號 2. Gener - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-14.txt:8-8 - recalls: 0 - status: staged - Candidate: Reflections: Theme: `heartbeat-ok` kept surfacing across 41 memories.; confidence: 0.86; evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3; note: reflection - confi",
-      "recallCount": 1,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.38666975200176235,
-      "maxScore": 0.38666975200176235,
-      "firstRecalledAt": "2026-04-22T12:00:18.124Z",
-      "lastRecalledAt": "2026-04-22T12:00:18.124Z",
-      "queryHashes": [
-        "232c5f96f5f6"
-      ],
-      "recallDays": [
-        "2026-04-22"
-      ],
-      "conceptTags": [
-        "m2.7",
-        "0.00",
-        "8-8",
-        "heartbeat-ok",
-        "0.86",
-        "1-1",
-        "2-2",
-        "3-3"
-      ]
-    },
-    "memory:memory/2026-04-22.md:198:202": {
-      "key": "memory:memory/2026-04-22.md:198:202",
-      "path": "memory/2026-04-22.md",
-      "startLine": 198,
-      "endLine": 202,
-      "source": "memory",
-      "snippet": "- Candidate: - Candidate: User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Mon 2026-04-13 15:07 UTC] 幫我把這個網站記起來，這網站可以把各種複雜的物理化學之類的知識用動畫的方式演示出來，而且還免費，非常好用: https://phet.colorado.edu/zh_TW/ - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:23-23 - recalls: 0 - status: staged - Candidate: Assistant: 已存。記了： - **網站**：PhET Interactive Simulations（Colorado Boulder 大學開發） - **用途**：用動畫演示物理、化學、生物、地球科學等複雜概念 - **特點**：免費、互動、繁中版 - **標籤**：#物理 #化學 #教學 #動畫 #免費資源 之後問「我之前存過什麼教學網站」或「物理化學動畫」就能找到。 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:24-24 - recalls: 0 - status: staged <!-- openclaw:dr",
-      "recallCount": 1,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.48335291445255274,
-      "maxScore": 0.48335291445255274,
-      "firstRecalledAt": "2026-04-22T16:29:34.870Z",
-      "lastRecalledAt": "2026-04-22T16:29:34.870Z",
-      "queryHashes": [
-        "5ab1b389bc01"
-      ],
-      "recallDays": [
-        "2026-04-22"
-      ],
-      "conceptTags": [
-        "openclaw-control-ui",
-        "phet.colorado.edu/zh-tw",
-        "0.00",
-        "23-23",
-        "24-24",
-        "candidate",
-        "user",
-        "sender"
-      ]
-    },
-    "memory:memory/2026-04-21.md:88:92": {
-      "key": "memory:memory/2026-04-21.md:88:92",
-      "path": "memory/2026-04-21.md",
-      "startLine": 88,
-      "endLine": 92,
-      "source": "memory",
-      "snippet": "- Candidate: - Candidate: User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Mon 2026-04-13 15:07 UTC] 幫我把這個網站記起來，這網站可以把各種複雜的物理化學之類的知識用動畫的方式演示出來，而且還免費，非常好用: https://phet.colorado.edu/zh_TW/ - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:23-23 - recalls: 0 - status: staged - Candidate: Assistant: 已存。記了： - **網站**：PhET Interactive Simulations（Colorado Boulder 大學開發） - **用途**：用動畫演示物理、化學、生物、地球科學等複雜概念 - **特點**：免費、互動、繁中版 - **標籤**：#物理 #化學 #教學 #動畫 #免費資源 之後問「我之前存過什麼教學網站」或「物理化學動畫」就能找到。 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:24-24 - recalls: 0 - status: staged <!-- openclaw:dr",
-      "recallCount": 1,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.48335291445255274,
-      "maxScore": 0.48335291445255274,
-      "firstRecalledAt": "2026-04-22T16:29:34.870Z",
-      "lastRecalledAt": "2026-04-22T16:29:34.870Z",
-      "queryHashes": [
-        "5ab1b389bc01"
-      ],
-      "recallDays": [
-        "2026-04-22"
-      ],
-      "conceptTags": [
-        "openclaw-control-ui",
-        "phet.colorado.edu/zh-tw",
-        "0.00",
-        "23-23",
-        "24-24",
-        "candidate",
-        "user",
-        "sender"
-      ]
-    },
     "memory:memory/2026-04-22.md:298:301": {
       "key": "memory:memory/2026-04-22.md:298:301",
       "path": "memory/2026-04-22.md",
@@ -18402,6 +17771,482 @@
         "104ad850261a"
       ],
       "recallDays": [
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/2026-04-23.md:303:306": {
+      "key": "memory:memory/2026-04-23.md:303:306",
+      "path": "memory/2026-04-23.md",
+      "startLine": 303,
+      "endLine": 306,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `heartbeat-ok` kept surfacing across 119 memories.; confidence: 1.00; evidence: memory/2026-04-10.md:273-276, memory/2026-04-10.md:183-204, memory/2026-04-11.md:113-139; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-23T19:09:43.854Z",
+      "lastRecalledAt": "2026-04-23T19:09:43.854Z",
+      "queryHashes": [
+        "b7fd25b71b44"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "1.00",
+        "memory/2026-04-10.md",
+        "273-276",
+        "183-204",
+        "memory/2026-04-11.md",
+        "113-139",
+        "reflections"
+      ]
+    },
+    "memory:memory/2026-04-23.md:307:310": {
+      "key": "memory:memory/2026-04-23.md:307:310",
+      "path": "memory/2026-04-23.md",
+      "startLine": 307,
+      "endLine": 310,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 89 memories.; confidence: 0.81; evidence: memory/.dreams/session-corpus/2026-04-15.txt:9-9, memory/.dreams/session-corpus/2026-04-15.txt:11-11, memory/.dreams/session-corpus/2026-04-15.txt:13-13; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-23T19:09:43.854Z",
+      "lastRecalledAt": "2026-04-23T19:09:43.854Z",
+      "queryHashes": [
+        "b7fd25b71b44"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "0.81",
+        "9-9",
+        "11-11",
+        "13-13",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-23.md:311:314": {
+      "key": "memory:memory/2026-04-23.md:311:314",
+      "path": "memory/2026-04-23.md",
+      "startLine": 311,
+      "endLine": 314,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 87 memories.; confidence: 0.79; evidence: memory/2026-04-10.md:277-280, memory/2026-04-11.md:1597-1599, memory/2026-04-12.md:1398-1400; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-23T19:09:43.854Z",
+      "lastRecalledAt": "2026-04-23T19:09:43.854Z",
+      "queryHashes": [
+        "b7fd25b71b44"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "0.79",
+        "memory/2026-04-10.md",
+        "277-280",
+        "memory/2026-04-11.md",
+        "1597-1599",
+        "memory/2026-04-12.md",
+        "1398-1400",
+        "reflections"
+      ]
+    },
+    "memory:memory/2026-04-23.md:317:319": {
+      "key": "memory:memory/2026-04-23.md:317:319",
+      "path": "memory/2026-04-23.md",
+      "startLine": 317,
+      "endLine": 319,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: - Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"25\", \"sender_id\": \"8590675031\", \"sender\": \"Eric\", \"timestamp\": \"Tue 2026-04-14 03:37 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"Eric (8590675031)\", \"id\":",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-23T19:09:43.854Z",
+      "lastRecalledAt": "2026-04-23T19:09:43.854Z",
+      "queryHashes": [
+        "b7fd25b71b44"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "possible",
+        "lasting",
+        "truths",
+        "candidate",
+        "user",
+        "conversation"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-23T19:09:43.854Z",
+      "lastRecalledAt": "2026-04-23T19:09:43.854Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-23T19:09:43.854Z",
+      "lastRecalledAt": "2026-04-23T19:09:43.854Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-23T19:09:43.854Z",
+      "lastRecalledAt": "2026-04-23T19:09:43.854Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-23T19:09:43.854Z",
+      "lastRecalledAt": "2026-04-23T19:09:43.854Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-23T19:09:43.854Z",
+      "lastRecalledAt": "2026-04-23T19:09:43.854Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-23T19:09:43.854Z",
+      "lastRecalledAt": "2026-04-23T19:09:43.854Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-23T19:09:43.854Z",
+      "lastRecalledAt": "2026-04-23T19:09:43.854Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-23T19:09:43.854Z",
+      "lastRecalledAt": "2026-04-23T19:09:43.854Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-23T19:09:43.854Z",
+      "lastRecalledAt": "2026-04-23T19:09:43.854Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-23T19:09:43.854Z",
+      "lastRecalledAt": "2026-04-23T19:09:43.854Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-23T19:09:43.854Z",
+      "lastRecalledAt": "2026-04-23T19:09:43.854Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24",
+        "2026-04-23"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/node",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-23.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-23.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-04-23.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-23T19:09:43.854Z",
+      "lastRecalledAt": "2026-04-23T19:09:43.854Z",
+      "queryHashes": [
+        "104ad850261a"
+      ],
+      "recallDays": [
+        "2026-04-24",
         "2026-04-23"
       ],
       "conceptTags": [
