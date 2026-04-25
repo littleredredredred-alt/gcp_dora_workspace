@@ -28,3 +28,17 @@
 
 <!-- openclaw-memory-promotion:memory:memory/2026-04-10.md:255:285 -->
 - - evidence: memory/.dreams/session-corpus/2026-04-09.txt:24-24 - recalls: 0 - status: staged - Candidate: User: Sender (untrusted metadata): ```json { "label": "openclaw-control-ui", "id": "openclaw-control-ui" } ``` [Thu 2026-04-09 06:30 UTC] 星期六下午6點提醒我繳牌照稅 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:25-25 - recalls: 0 - status: staged - Candidate: Assistant: ✅ 已設定囉！2026 年 4 月 11 日（星期六）下午 6 點會提醒你繳牌照稅。 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-09.txt:26-26 - recalls: 0 - status: staged <!-- openclaw:dreaming:light:end --> ## REM Sleep <!-- openclaw:dreaming:rem:start --> ### Reflections - Theme: `heartbeat-ok` kept surfacing across 41 memories. - confidence: 0.86 - evidence: memory/.dreams/session-corpus/2026-04-08.txt:1-1, memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:3-3 - note: reflection - Theme: `assistant` kept surfacing across 37 memories. - confidence: 0.78 - evidence: memory/.dreams/session-corpus/2026-04-08.txt:2-2, memory/.dreams/session-corpus/2026-04-08.txt:4-4, memory/.dreams/session-corpus/2026-04-08.txt:6-6 - note: reflection ### Possible Lasting Truths - No strong candidate truths surfaced. <!-- openclaw:dreaming:rem:end --> [score=0.806 recalls=4 avg=0.444 source=memory/2026-04-10.md:255-285]
+
+## Promoted From Short-Term Memory (2026-04-25)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-04-17.md:252:254 -->
+- - Candidate: Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide - confidence: 0.62 - evidence: memory/2026-04-14.md:173-175 [score=0.845 recalls=0 avg=0.620 source=memory/2026-04-17.md:198-200]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-18.md:227:229 -->
+- - Candidate: Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide - confidence: 0.62 - evidence: memory/2026-04-15.md:247-249 [score=0.845 recalls=0 avg=0.620 source=memory/2026-04-18.md:148-150]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-19.md:253:255 -->
+- - Candidate: Possible Lasting Truths: - Candidate: Assistant: 履歷報告檔案不存在（路徑：`reports/job-search-taipei-cv-ai-2026-04-08.md`）。 可能原因： - 檔案尚未產生 - 路徑或名稱有誤 - 已被移動或刪除 目前 `reports/` 目錄中有的檔案： - `INDEX.md` - `dashboard-hybrid-search-roadmap.md` - `second-brain-skill-spec.md` 如果你有正確的檔案路徑，請告訴我。 - confide - confidence: 0.62 - evidence: memory/2026-04-16.md:272-274 [score=0.838 recalls=0 avg=0.620 source=memory/2026-04-19.md:208-210]
+
+## Promoted From Short-Term Memory (2026-04-25)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-04-20.md:313:315 -->
+- - status: staged [score=0.832 recalls=0 avg=0.620 source=memory/2026-04-20.md:297-297]
