@@ -1,0 +1,20 @@
+[dora/sessions/11200fef-5aaf-4a70-97ab-8c46eae02ae9.jsonl#L64] User: 幫我把這個存起來，我之後可能有機會用到： AI Video Maker 完全免費的影片生成工具，不用註冊就能用，還能生成有聲音影片 - 電腦王阿達 https://share.google/tf1qciVXPi3Vaeyq5
+[dora/sessions/11200fef-5aaf-4a70-97ab-8c46eae02ae9.jsonl#L69] Assistant: 已存到 `memory/LINKS.md`，標籤是 `ai-video`、`影片生成`、`免費工具`。之後問我「AI 影片工具」或「免費影片生成」就能找到。
+[dora/sessions/11200fef-5aaf-4a70-97ab-8c46eae02ae9.jsonl#L70] User: 幫我把這個存起來，之後我可能會用到 https://www.threads.com/@peter_su.0/post/DXqSsltETmT?xmt=AQF0TTCYDyRY1JFLuK-CFOR_RH15CnEx4wHynfIDu8thHVY_0GCml6d7BBUrhivCIQij8e8r&slof=1
+[dora/sessions/11200fef-5aaf-4a70-97ab-8c46eae02ae9.jsonl#L73] Assistant: 已存，標籤 `threads`、`設計`、`靈感`。
+[dora/sessions/23156344-ecd0-4c06-a757-6bfbc7d45c1b.jsonl#L5] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e
+[dora/sessions/23156344-ecd0-4c06-a757-6bfbc7d45c1b.jsonl#L10] Assistant: HEARTBEAT_OK
+[dora/sessions/5a56e180-333a-4c21-84ed-ce487313e4cb.jsonl#L5] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e
+[dora/sessions/5a56e180-333a-4c21-84ed-ce487313e4cb.jsonl#L11] Assistant: HEARTBEAT_OK
+[dora/sessions/5d37da90-8c73-4f20-a56c-1398482660c8.jsonl#L5] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e
+[dora/sessions/5d37da90-8c73-4f20-a56c-1398482660c8.jsonl#L10] Assistant: HEARTBEAT_OK
+[dora/sessions/650e4f63-9d6e-4014-94c0-52bf101be604.jsonl#L5] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e
+[dora/sessions/650e4f63-9d6e-4014-94c0-52bf101be604.jsonl#L11] Assistant: HEARTBEAT_OK
+[dora/sessions/90c545cd-f92d-4843-a4e4-db460c70c59d.jsonl#L5] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e
+[dora/sessions/90c545cd-f92d-4843-a4e4-db460c70c59d.jsonl#L11] Assistant: HEARTBEAT_OK
+[dora/sessions/aa2bc30c-1b14-4d6c-a2fe-cc4461f85d47.jsonl#L5] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e
+[dora/sessions/aa2bc30c-1b14-4d6c-a2fe-cc4461f85d47.jsonl#L10] Assistant: HEARTBEAT_OK
+[dora/sessions/bd2a2c59-6083-49d0-8be0-d825b4821421.jsonl#L5] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e
+[dora/sessions/bd2a2c59-6083-49d0-8be0-d825b4821421.jsonl#L11] Assistant: HEARTBEAT_OK
+[dora/sessions/e630c0c2-225b-42ac-9cb7-21b61beba9aa.jsonl#L5] User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e
+[dora/sessions/e630c0c2-225b-42ac-9cb7-21b61beba9aa.jsonl#L10] Assistant: HEARTBEAT_OK
