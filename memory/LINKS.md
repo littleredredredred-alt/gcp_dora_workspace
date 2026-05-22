@@ -33,3 +33,9 @@
   source: Threads
   why_it_matters: 收藏待用
   related: threads, 設計, 靈感
+
+- 2026-05-22 10:39 UTC | type: link | source: telegram
+  title: cal.diy — Cal.com 開源排程平台
+  url: https://cal.diy (待確認網址)
+  why_it_matters: Cal.com 商業功能全拔、MIT 授權开源。籌 $32M 後免費釋出。43,600 顆星。以後做預約系統不用再付月費
+  related: open-source, 排程, 預約系統, SaaS, MIT license
