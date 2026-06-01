@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-27T19:17:14.750Z",
+  "updatedAt": "2026-06-01T12:57:31.142Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
@@ -763,27 +763,6 @@
       "lightHits": 22,
       "remHits": 0,
       "lastLightAt": "2026-04-12T10:00:40.803Z"
-    },
-    "memory:memory/2026-04-10.md:234:259": {
-      "key": "memory:memory/2026-04-10.md:234:259",
-      "lightHits": 23,
-      "remHits": 24,
-      "lastLightAt": "2026-04-21T03:06:24.184Z",
-      "lastRemAt": "2026-04-20T03:04:49.634Z"
-    },
-    "memory:memory/2026-04-10.md:166:187": {
-      "key": "memory:memory/2026-04-10.md:166:187",
-      "lightHits": 44,
-      "remHits": 29,
-      "lastLightAt": "2026-04-21T03:06:24.184Z",
-      "lastRemAt": "2026-04-19T13:54:05.295Z"
-    },
-    "memory:memory/2026-04-10.md:255:285": {
-      "key": "memory:memory/2026-04-10.md:255:285",
-      "lightHits": 24,
-      "remHits": 3,
-      "lastLightAt": "2026-04-21T03:06:24.184Z",
-      "lastRemAt": "2026-04-21T03:06:10.808Z"
     },
     "memory:memory/2026-04-11.md:262:264": {
       "key": "memory:memory/2026-04-11.md:262:264",
@@ -2950,50 +2929,61 @@
     "memory:memory/.dreams/session-corpus/2026-05-24.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:1:1",
       "lightHits": 7,
-      "remHits": 0,
-      "lastLightAt": "2026-05-27T19:17:14.750Z"
+      "remHits": 1,
+      "lastLightAt": "2026-05-27T19:17:14.750Z",
+      "lastRemConsideredAt": "2026-06-01T12:57:31.142Z",
+      "lastRemAt": "2026-06-01T12:57:31.142Z"
     },
     "memory:memory/.dreams/session-corpus/2026-05-24.txt:2:2": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:2:2",
       "lightHits": 7,
       "remHits": 0,
-      "lastLightAt": "2026-05-27T19:17:14.750Z"
+      "lastLightAt": "2026-05-27T19:17:14.750Z",
+      "lastRemConsideredAt": "2026-06-01T12:57:31.142Z"
     },
     "memory:memory/.dreams/session-corpus/2026-05-25.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:1:1",
       "lightHits": 6,
-      "remHits": 0,
-      "lastLightAt": "2026-05-27T19:17:14.750Z"
+      "remHits": 1,
+      "lastLightAt": "2026-05-27T19:17:14.750Z",
+      "lastRemConsideredAt": "2026-06-01T12:57:31.142Z",
+      "lastRemAt": "2026-06-01T12:57:31.142Z"
     },
     "memory:memory/.dreams/session-corpus/2026-05-25.txt:2:2": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:2:2",
       "lightHits": 6,
       "remHits": 0,
-      "lastLightAt": "2026-05-27T19:17:14.750Z"
+      "lastLightAt": "2026-05-27T19:17:14.750Z",
+      "lastRemConsideredAt": "2026-06-01T12:57:31.142Z"
     },
     "memory:memory/.dreams/session-corpus/2026-05-26.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:1:1",
       "lightHits": 4,
-      "remHits": 0,
-      "lastLightAt": "2026-05-27T19:17:14.750Z"
+      "remHits": 1,
+      "lastLightAt": "2026-05-27T19:17:14.750Z",
+      "lastRemConsideredAt": "2026-06-01T12:57:31.142Z",
+      "lastRemAt": "2026-06-01T12:57:31.142Z"
     },
     "memory:memory/.dreams/session-corpus/2026-05-26.txt:2:2": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:2:2",
       "lightHits": 4,
       "remHits": 0,
-      "lastLightAt": "2026-05-27T19:17:14.750Z"
+      "lastLightAt": "2026-05-27T19:17:14.750Z",
+      "lastRemConsideredAt": "2026-06-01T12:57:31.142Z"
     },
     "memory:memory/.dreams/session-corpus/2026-05-27.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:1:1",
       "lightHits": 2,
       "remHits": 0,
-      "lastLightAt": "2026-05-27T19:17:14.750Z"
+      "lastLightAt": "2026-05-27T19:17:14.750Z",
+      "lastRemConsideredAt": "2026-06-01T12:57:31.142Z"
     },
     "memory:memory/.dreams/session-corpus/2026-05-27.txt:2:2": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:2:2",
       "lightHits": 2,
       "remHits": 0,
-      "lastLightAt": "2026-05-27T19:17:14.750Z"
+      "lastLightAt": "2026-05-27T19:17:14.750Z",
+      "lastRemConsideredAt": "2026-06-01T12:57:31.142Z"
     }
   }
 }
