@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-01T12:57:31.142Z",
+  "updatedAt": "2026-06-01T19:00:10.819Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:1:1",
@@ -2929,10 +2929,10 @@
     "memory:memory/.dreams/session-corpus/2026-05-24.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:1:1",
       "lightHits": 7,
-      "remHits": 1,
+      "remHits": 2,
       "lastLightAt": "2026-05-27T19:17:14.750Z",
-      "lastRemConsideredAt": "2026-06-01T12:57:31.142Z",
-      "lastRemAt": "2026-06-01T12:57:31.142Z"
+      "lastRemAt": "2026-06-01T19:00:10.819Z",
+      "lastRemConsideredAt": "2026-06-01T12:57:31.142Z"
     },
     "memory:memory/.dreams/session-corpus/2026-05-24.txt:2:2": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-24.txt:2:2",
@@ -2944,10 +2944,10 @@
     "memory:memory/.dreams/session-corpus/2026-05-25.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:1:1",
       "lightHits": 6,
-      "remHits": 1,
+      "remHits": 2,
       "lastLightAt": "2026-05-27T19:17:14.750Z",
-      "lastRemConsideredAt": "2026-06-01T12:57:31.142Z",
-      "lastRemAt": "2026-06-01T12:57:31.142Z"
+      "lastRemAt": "2026-06-01T19:00:10.819Z",
+      "lastRemConsideredAt": "2026-06-01T12:57:31.142Z"
     },
     "memory:memory/.dreams/session-corpus/2026-05-25.txt:2:2": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-25.txt:2:2",
@@ -2959,10 +2959,10 @@
     "memory:memory/.dreams/session-corpus/2026-05-26.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:1:1",
       "lightHits": 4,
-      "remHits": 1,
+      "remHits": 2,
       "lastLightAt": "2026-05-27T19:17:14.750Z",
-      "lastRemConsideredAt": "2026-06-01T12:57:31.142Z",
-      "lastRemAt": "2026-06-01T12:57:31.142Z"
+      "lastRemAt": "2026-06-01T19:00:10.819Z",
+      "lastRemConsideredAt": "2026-06-01T12:57:31.142Z"
     },
     "memory:memory/.dreams/session-corpus/2026-05-26.txt:2:2": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:2:2",
