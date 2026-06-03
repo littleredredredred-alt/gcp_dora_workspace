@@ -134,6 +134,13 @@
       "lineCount": 1,
       "lastContentLine": 1
     },
+    "dora:sessions/dora/0c322405-02fc-4f41-bcc9-c4df1b594b82.jsonl": {
+      "mtimeMs": 1780361808561,
+      "size": 4132,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
     "dora:sessions/dora/0c56402d-8b73-4928-a5ec-807cd0b92ab6.jsonl": {
       "mtimeMs": 1777201026753,
       "size": 6025,
@@ -497,6 +504,13 @@
       "contentHash": "3603dc492e3c3918af55894017ec00ce27aa1a50ea8497ea3301755412d2ede1",
       "lineCount": 1,
       "lastContentLine": 1
+    },
+    "dora:sessions/dora/397cf068-3859-414c-9b16-924d4011abc2.jsonl": {
+      "mtimeMs": 1780369008548,
+      "size": 4157,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
     },
     "dora:sessions/dora/39a2f92b-9643-4769-b5ca-7cdc2515a0ca.jsonl": {
       "mtimeMs": 1777705010198,
@@ -1121,6 +1135,13 @@
       "lineCount": 1,
       "lastContentLine": 1
     },
+    "dora:sessions/dora/8219dee9-dcb7-4b39-b916-12c9e918aaba.jsonl": {
+      "mtimeMs": 1780376211435,
+      "size": 4148,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
     "dora:sessions/dora/83833019-b93d-4683-b4c9-d35898aa325d.jsonl": {
       "mtimeMs": 1776927417095,
       "size": 5739,
@@ -1155,6 +1176,13 @@
       "contentHash": "cb8ec0f1551658299b85698eafd3d3f16fcb4ef4f72dfaf51555403c1935cde9",
       "lineCount": 1,
       "lastContentLine": 1
+    },
+    "dora:sessions/dora/86d0787c-42c4-4d11-9638-453ba44201b9.jsonl": {
+      "mtimeMs": 1780390615912,
+      "size": 4103,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
     },
     "dora:sessions/dora/878f3f28-ec5a-4a56-950b-441079648ce3.jsonl": {
       "mtimeMs": 1779325008003,
@@ -3859,6 +3887,9 @@
       "7d98633453a83b7c7d58fa5d8c48ef74963f0634",
       "3a6a3ad52b57b286878f91c7087cece11feedac1"
     ],
-    "dora:d9471711-6852-4db7-8a99-402a934086bb": []
+    "dora:0c322405-02fc-4f41-bcc9-c4df1b594b82": [],
+    "dora:397cf068-3859-414c-9b16-924d4011abc2": [],
+    "dora:8219dee9-dcb7-4b39-b916-12c9e918aaba": [],
+    "dora:86d0787c-42c4-4d11-9638-453ba44201b9": []
   }
 }
