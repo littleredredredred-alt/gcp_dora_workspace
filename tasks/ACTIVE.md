@@ -6,6 +6,12 @@
   status: active
   next_step: 之後擴展 V2 metadata / linking，再進到 V3 dashboard + hybrid search
 
+- id: DORA-002
+  priority: high
+  summary: 定義 recall / lookup / linking workflow
+  status: active
+  next_step: 建立 recall 流程、lookup 工具串接、linking 策略文件
+
 - id: VPS-001
   priority: high
   summary: VPS 快到期，盡快移植 OpenClaw 系統到新主機
