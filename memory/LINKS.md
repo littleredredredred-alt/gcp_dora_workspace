@@ -20,8 +20,14 @@
 
 ---
 
+- 2026-06-07 16:43 UTC | type: link | source: telegram
+  title: origami.me — 摺紙教學網站
+  url: https://origami.me/
+  why_it_matters: 摺紙愛好者，收錄多種動物、角色、盒子的逐步教學
+  related: origami, 摺紙, 手作, 教程
+
 - 2026-04-28 15:12 UTC | type: link | source: telegram
-  title: AI Video Maker 完全免費的影片生成工具，不用註冊就能用，還能生成有聲音影片
+  title: AI Video Maker 完全免費的影片生成工具
   url: https://share.google/tf1qciVXPi3Vaeyq5
   source: 電腦王阿達
   why_it_matters: 完全免費、不用註冊、有聲音影片生成，之後有機會做影片可試
