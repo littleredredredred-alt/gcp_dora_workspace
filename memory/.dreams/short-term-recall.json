@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03T19:00:05.416Z",
+  "updatedAt": "2026-06-07T19:00:04.170Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-27.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:1:1",
@@ -153,88 +153,6 @@
       "path": "memory/.dreams/session-corpus/2026-04-27.txt",
       "startLine": 14,
       "endLine": 14,
-      "source": "memory",
-      "snippet": "Assistant: HEARTBEAT_OK",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-04-27T19:12:28.999Z",
-      "lastRecalledAt": "2026-04-27T19:12:28.999Z",
-      "queryHashes": [
-        "e29ad1ab29b1"
-      ],
-      "recallDays": [
-        "2026-04-28",
-        "2026-04-27"
-      ],
-      "conceptTags": [
-        "heartbeat-ok"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-04-27.txt:15:15": {
-      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:15:15",
-      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
-      "startLine": 15,
-      "endLine": 15,
-      "source": "memory",
-      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-04-27T19:12:28.999Z",
-      "lastRecalledAt": "2026-04-27T19:12:28.999Z",
-      "queryHashes": [
-        "e29ad1ab29b1"
-      ],
-      "recallDays": [
-        "2026-04-28",
-        "2026-04-27"
-      ],
-      "conceptTags": [
-        "heartbeat.md",
-        "heartbeat-ok",
-        "home/node",
-        "read",
-        "exists",
-        "context",
-        "follow",
-        "strictly"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-04-27.txt:16:16": {
-      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:16:16",
-      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
-      "startLine": 16,
-      "endLine": 16,
-      "source": "memory",
-      "snippet": "Assistant: HEARTBEAT_OK",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-04-27T19:12:28.999Z",
-      "lastRecalledAt": "2026-04-27T19:12:28.999Z",
-      "queryHashes": [
-        "e29ad1ab29b1"
-      ],
-      "recallDays": [
-        "2026-04-28",
-        "2026-04-27"
-      ],
-      "conceptTags": [
-        "heartbeat-ok"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-04-27.txt:2:2": {
-      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:2:2",
-      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
-      "startLine": 2,
-      "endLine": 2,
       "source": "memory",
       "snippet": "Assistant: HEARTBEAT_OK",
       "recallCount": 0,
@@ -14228,6 +14146,100 @@
         "context",
         "follow",
         "strictly"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: 幫我把這個網站存起來: https://origami.me/",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-07T19:00:04.080Z",
+      "lastRecalledAt": "2026-06-07T19:00:04.080Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-08",
+        "2026-06-07"
+      ],
+      "conceptTags": [
+        "origami.me",
+        "我把",
+        "這個",
+        "網站",
+        "起來",
+        "https"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: 已存到 `memory/LINKS.md`： - **origami.me** — 摺紙教學網站，收錄多種動物、盒子逐步圖解 - 相關標籤：`origami, 摺紙, 手作, 教程`",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-07T19:00:04.080Z",
+      "lastRecalledAt": "2026-06-07T19:00:04.080Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-08",
+        "2026-06-07"
+      ],
+      "conceptTags": [
+        "memory/links.md",
+        "origami.me",
+        "links.md",
+        "摺紙",
+        "教學",
+        "網站",
+        "收錄",
+        "多種"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-08.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-08.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-06-08.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: 已存到 `memory/LINKS.md`： - **origami.me** — 摺紙教學網站，收錄多種動物、盒子逐步圖解 - 相關標籤：`origami, 摺紙, 手作, 教程`",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-07T19:00:04.080Z",
+      "lastRecalledAt": "2026-06-07T19:00:04.080Z",
+      "queryHashes": [
+        "b2d79ea44bad"
+      ],
+      "recallDays": [
+        "2026-06-08",
+        "2026-06-07"
+      ],
+      "conceptTags": [
+        "memory/links.md",
+        "origami.me",
+        "links.md",
+        "摺紙",
+        "教學",
+        "網站",
+        "收錄",
+        "多種"
       ]
     },
     "memory:memory/2026-04-20.md:303:306": {
