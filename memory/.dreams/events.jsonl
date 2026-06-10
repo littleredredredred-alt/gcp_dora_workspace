@@ -800,3 +800,6 @@
 {"type":"memory.dream.completed","timestamp":"2026-06-08T19:00:04.188Z","phase":"light","reportPath":"/home/node/.openclaw/dora-agent/workspace/memory/dreaming/light/2026-06-09.md","lineCount":10,"storageMode":"separate"}
 {"type":"memory.dream.completed","timestamp":"2026-06-08T19:00:04.188Z","phase":"rem","reportPath":"/home/node/.openclaw/dora-agent/workspace/memory/dreaming/rem/2026-06-09.md","lineCount":45,"storageMode":"separate"}
 {"type":"memory.dream.completed","timestamp":"2026-06-08T19:00:04.188Z","phase":"deep","reportPath":"/home/node/.openclaw/dora-agent/workspace/memory/dreaming/deep/2026-06-09.md","lineCount":2,"storageMode":"separate"}
+{"type":"memory.dream.completed","timestamp":"2026-06-09T19:00:03.828Z","phase":"light","reportPath":"/home/node/.openclaw/dora-agent/workspace/memory/dreaming/light/2026-06-10.md","lineCount":10,"storageMode":"separate"}
+{"type":"memory.dream.completed","timestamp":"2026-06-09T19:00:03.828Z","phase":"rem","reportPath":"/home/node/.openclaw/dora-agent/workspace/memory/dreaming/rem/2026-06-10.md","lineCount":45,"storageMode":"separate"}
+{"type":"memory.dream.completed","timestamp":"2026-06-09T19:00:03.828Z","phase":"deep","reportPath":"/home/node/.openclaw/dora-agent/workspace/memory/dreaming/deep/2026-06-10.md","lineCount":2,"storageMode":"separate"}

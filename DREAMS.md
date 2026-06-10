@@ -2097,4 +2097,18 @@ User: 幫我把這個網站存起來: https://origami.me/
 
 Assistant: 已存到 `memory/LINKS.md`： - **origami.me** — 摺紙教學網站，收錄多種動物、盒子逐步圖解 - 相關標籤：`origami, 摺紙, 手作, 教程`
 
+
+---
+
+*June 10, 2026 at 3:00 AM GMT+8*
+
+User: 幫我把這個網站存起來: https://origami.me/
+
+
+---
+
+*June 10, 2026 at 3:00 AM GMT+8*
+
+Assistant: 已存到 `memory/LINKS.md`： - **origami.me** — 摺紙教學網站，收錄多種動物、盒子逐步圖解 - 相關標籤：`origami, 摺紙, 手作, 教程`
+
 <!-- openclaw:dreaming:diary:end -->
