@@ -1,0 +1,1 @@
+[dora/sessions/dora/72d86653-e0ce-4a89-bc77-30e67b5165de.jsonl#L8] Assistant: HEARTBEAT_OK tasks/ACTIVE.md 有 3 件 active，其中 **VPS-001 已逾期**（deadline: 盡快處理）。其餘 DORA-001 / DORA-002 進度正常，無需干預。
