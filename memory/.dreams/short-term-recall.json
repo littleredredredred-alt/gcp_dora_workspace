@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T19:00:04.033Z",
+  "updatedAt": "2026-06-14T19:00:04.046Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-27.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:1:1",
@@ -114,38 +114,6 @@
       ],
       "conceptTags": [
         "heartbeat-ok"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-04-27.txt:13:13": {
-      "key": "memory:memory/.dreams/session-corpus/2026-04-27.txt:13:13",
-      "path": "memory/.dreams/session-corpus/2026-04-27.txt",
-      "startLine": 13,
-      "endLine": 13,
-      "source": "memory",
-      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/node/.openclaw/dora-agent/workspace/HEARTBEAT.md (e",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-04-27T19:12:28.999Z",
-      "lastRecalledAt": "2026-04-27T19:12:28.999Z",
-      "queryHashes": [
-        "e29ad1ab29b1"
-      ],
-      "recallDays": [
-        "2026-04-28",
-        "2026-04-27"
-      ],
-      "conceptTags": [
-        "heartbeat.md",
-        "heartbeat-ok",
-        "home/node",
-        "read",
-        "exists",
-        "context",
-        "follow",
-        "strictly"
       ]
     },
     "memory:memory/.dreams/session-corpus/2026-04-28.txt:1:1": {
@@ -14247,6 +14215,38 @@
         "tasks",
         "active.md",
         "active"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-06-14.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-06-14.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-06-14.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK ACTIVE 任務：3 件- **DORA-001** / DORA-002：second-brain 開發中，正常- **VPS-001**：⚠️ 已逾期，盡快移植 OpenClaw 到新主機",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-06-14T19:00:03.921Z",
+      "lastRecalledAt": "2026-06-14T19:00:03.921Z",
+      "queryHashes": [
+        "460d69fb457f"
+      ],
+      "recallDays": [
+        "2026-06-15",
+        "2026-06-14"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "dora-001",
+        "dora-002",
+        "second-brain",
+        "vps-001",
+        "active",
+        "任務",
+        "dora"
       ]
     },
     "memory:memory/2026-04-20.md:303:306": {

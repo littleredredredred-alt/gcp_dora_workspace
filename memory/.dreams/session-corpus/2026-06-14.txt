@@ -1,0 +1,1 @@
+[dora/sessions/dora/205a8633-5bd1-4df6-a069-b090833982b4.jsonl#L8] Assistant: HEARTBEAT_OK ACTIVE 任務：3 件- **DORA-001** / DORA-002：second-brain 開發中，正常- **VPS-001**：⚠️ 已逾期，盡快移植 OpenClaw 到新主機
