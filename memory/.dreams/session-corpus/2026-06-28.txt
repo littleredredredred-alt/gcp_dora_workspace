@@ -1,0 +1,1 @@
+[dora/sessions/dora/14d062a4-ab07-478b-87d1-02c4354cb5c5.jsonl#L10] Assistant: HEARTBEAT_OK ACTIVE 有 3 件工作中（皆已有 next_step），READY 無需此時補位。
