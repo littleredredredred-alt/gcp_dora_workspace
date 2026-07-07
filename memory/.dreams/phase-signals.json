@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T19:00:03.683Z",
+  "updatedAt": "2026-07-06T19:00:03.735Z",
   "entries": {
     "memory:memory/2026-04-20.md:303:306": {
       "key": "memory:memory/2026-04-20.md:303:306",
@@ -597,9 +597,9 @@
     "memory:memory/.dreams/session-corpus/2026-06-28.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-06-28.txt:1:1",
       "lightHits": 4,
-      "remHits": 7,
+      "remHits": 8,
       "lastLightAt": "2026-07-01T19:00:04.066Z",
-      "lastRemAt": "2026-07-05T19:00:03.683Z",
+      "lastRemAt": "2026-07-06T19:00:03.735Z",
       "lastRemConsideredAt": "2026-07-01T19:00:04.066Z"
     }
   }
